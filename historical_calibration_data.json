@@ -1,0 +1,1233 @@
+{
+  "metadata": {
+    "description": "World Cup knockout stage matches (2018, 2022) with pre-tournament ELO ratings for predictive model calibration",
+    "source_matches": "FIFA API (api.fifa.com/api/v3/calendar/matches)",
+    "source_elo": "eloratings.net (pre-tournament / start-of-year ratings)",
+    "elo_note": "2018 ELO = Dec 31, 2017 ratings; 2022 ELO = Dec 31, 2021 ratings (pre-tournament)",
+    "generated_at": "2026-07-08T05:57:07Z"
+  },
+  "matches": [
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "NED",
+        "name": "Netherlands"
+      },
+      "away_team": {
+        "code": "USA",
+        "name": "United States"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "NED",
+      "elo_pre_tournament": {
+        "home": 1929,
+        "away": 1810,
+        "difference": 119
+      },
+      "date": "2022-12-03T15:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "ARG",
+        "name": "Argentina"
+      },
+      "away_team": {
+        "code": "AUS",
+        "name": "Australia"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "ARG",
+      "elo_pre_tournament": {
+        "home": 2101,
+        "away": 1790,
+        "difference": 311
+      },
+      "date": "2022-12-03T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "away_team": {
+        "code": "POL",
+        "name": "Poland"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "FRA",
+      "elo_pre_tournament": {
+        "home": 2114,
+        "away": 1805,
+        "difference": 309
+      },
+      "date": "2022-12-04T15:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "ENG",
+        "name": "England"
+      },
+      "away_team": {
+        "code": "SEN",
+        "name": "Senegal"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "ENG",
+      "elo_pre_tournament": {
+        "home": 2031,
+        "away": 1815,
+        "difference": 216
+      },
+      "date": "2022-12-04T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "JPN",
+        "name": "Japan"
+      },
+      "away_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalties": {
+        "home": 1,
+        "away": 3
+      },
+      "result": "away_win",
+      "winner": "CRO",
+      "elo_pre_tournament": {
+        "home": 1835,
+        "away": 1858,
+        "difference": -23
+      },
+      "date": "2022-12-05T15:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "BRA",
+        "name": "Brazil"
+      },
+      "away_team": {
+        "code": "KOR",
+        "name": "Korea Republic"
+      },
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "BRA",
+      "elo_pre_tournament": {
+        "home": 2149,
+        "away": 1795,
+        "difference": 354
+      },
+      "date": "2022-12-05T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "MAR",
+        "name": "Morocco"
+      },
+      "away_team": {
+        "code": "ESP",
+        "name": "Spain"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalties": {
+        "home": 3,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "MAR",
+      "elo_pre_tournament": {
+        "home": 1850,
+        "away": 2036,
+        "difference": -186
+      },
+      "date": "2022-12-06T15:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "R16",
+      "home_team": {
+        "code": "POR",
+        "name": "Portugal"
+      },
+      "away_team": {
+        "code": "SUI",
+        "name": "Switzerland"
+      },
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "POR",
+      "elo_pre_tournament": {
+        "home": 1972,
+        "away": 1933,
+        "difference": 39
+      },
+      "date": "2022-12-06T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "QF",
+      "home_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "away_team": {
+        "code": "BRA",
+        "name": "Brazil"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalties": {
+        "home": 4,
+        "away": 2
+      },
+      "result": "home_win",
+      "winner": "CRO",
+      "elo_pre_tournament": {
+        "home": 1858,
+        "away": 2149,
+        "difference": -291
+      },
+      "date": "2022-12-09T15:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "QF",
+      "home_team": {
+        "code": "NED",
+        "name": "Netherlands"
+      },
+      "away_team": {
+        "code": "ARG",
+        "name": "Argentina"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "penalties": {
+        "home": 3,
+        "away": 4
+      },
+      "result": "away_win",
+      "winner": "ARG",
+      "elo_pre_tournament": {
+        "home": 1929,
+        "away": 2101,
+        "difference": -172
+      },
+      "date": "2022-12-09T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "QF",
+      "home_team": {
+        "code": "MAR",
+        "name": "Morocco"
+      },
+      "away_team": {
+        "code": "POR",
+        "name": "Portugal"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "MAR",
+      "elo_pre_tournament": {
+        "home": 1850,
+        "away": 1972,
+        "difference": -122
+      },
+      "date": "2022-12-10T15:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "QF",
+      "home_team": {
+        "code": "ENG",
+        "name": "England"
+      },
+      "away_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "away_win",
+      "winner": "FRA",
+      "elo_pre_tournament": {
+        "home": 2031,
+        "away": 2114,
+        "difference": -83
+      },
+      "date": "2022-12-10T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "SF",
+      "home_team": {
+        "code": "ARG",
+        "name": "Argentina"
+      },
+      "away_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "ARG",
+      "elo_pre_tournament": {
+        "home": 2101,
+        "away": 1858,
+        "difference": 243
+      },
+      "date": "2022-12-13T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "SF",
+      "home_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "away_team": {
+        "code": "MAR",
+        "name": "Morocco"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "FRA",
+      "elo_pre_tournament": {
+        "home": 2114,
+        "away": 1850,
+        "difference": 264
+      },
+      "date": "2022-12-14T19:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "Third",
+      "home_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "away_team": {
+        "code": "MAR",
+        "name": "Morocco"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "CRO",
+      "elo_pre_tournament": {
+        "home": 1858,
+        "away": 1850,
+        "difference": 8
+      },
+      "date": "2022-12-17T15:00:00Z"
+    },
+    {
+      "year": 2022,
+      "phase": "Final",
+      "home_team": {
+        "code": "ARG",
+        "name": "Argentina"
+      },
+      "away_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "penalties": {
+        "home": 4,
+        "away": 2
+      },
+      "result": "home_win",
+      "winner": "ARG",
+      "elo_pre_tournament": {
+        "home": 2101,
+        "away": 2114,
+        "difference": -13
+      },
+      "date": "2022-12-18T15:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "away_team": {
+        "code": "ARG",
+        "name": "Argentina"
+      },
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "FRA",
+      "elo_pre_tournament": {
+        "home": 1988,
+        "away": 1983,
+        "difference": 5
+      },
+      "date": "2018-06-30T14:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "URU",
+        "name": "Uruguay"
+      },
+      "away_team": {
+        "code": "POR",
+        "name": "Portugal"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "URU",
+      "elo_pre_tournament": {
+        "home": 1866,
+        "away": 1993,
+        "difference": -127
+      },
+      "date": "2018-06-30T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "ESP",
+        "name": "Spain"
+      },
+      "away_team": {
+        "code": "RUS",
+        "name": "Russia"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalties": {
+        "home": 3,
+        "away": 4
+      },
+      "result": "away_win",
+      "winner": "RUS",
+      "elo_pre_tournament": {
+        "home": 2030,
+        "away": 1835,
+        "difference": 195
+      },
+      "date": "2018-07-01T14:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "away_team": {
+        "code": "DEN",
+        "name": "Denmark"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalties": {
+        "home": 3,
+        "away": 2
+      },
+      "result": "home_win",
+      "winner": "CRO",
+      "elo_pre_tournament": {
+        "home": 1858,
+        "away": 1845,
+        "difference": 13
+      },
+      "date": "2018-07-01T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "BRA",
+        "name": "Brazil"
+      },
+      "away_team": {
+        "code": "MEX",
+        "name": "Mexico"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "BRA",
+      "elo_pre_tournament": {
+        "home": 2113,
+        "away": 1853,
+        "difference": 260
+      },
+      "date": "2018-07-02T14:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "BEL",
+        "name": "Belgium"
+      },
+      "away_team": {
+        "code": "JPN",
+        "name": "Japan"
+      },
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "BEL",
+      "elo_pre_tournament": {
+        "home": 1926,
+        "away": 1810,
+        "difference": 116
+      },
+      "date": "2018-07-02T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "SWE",
+        "name": "Sweden"
+      },
+      "away_team": {
+        "code": "SUI",
+        "name": "Switzerland"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "SWE",
+      "elo_pre_tournament": {
+        "home": 1850,
+        "away": 1865,
+        "difference": -15
+      },
+      "date": "2018-07-03T14:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "R16",
+      "home_team": {
+        "code": "COL",
+        "name": "Colombia"
+      },
+      "away_team": {
+        "code": "ENG",
+        "name": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalties": {
+        "home": 3,
+        "away": 4
+      },
+      "result": "away_win",
+      "winner": "ENG",
+      "elo_pre_tournament": {
+        "home": 1926,
+        "away": 1932,
+        "difference": -6
+      },
+      "date": "2018-07-03T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "QF",
+      "home_team": {
+        "code": "URU",
+        "name": "Uruguay"
+      },
+      "away_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "away_win",
+      "winner": "FRA",
+      "elo_pre_tournament": {
+        "home": 1866,
+        "away": 1988,
+        "difference": -122
+      },
+      "date": "2018-07-06T14:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "QF",
+      "home_team": {
+        "code": "BRA",
+        "name": "Brazil"
+      },
+      "away_team": {
+        "code": "BEL",
+        "name": "Belgium"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "away_win",
+      "winner": "BEL",
+      "elo_pre_tournament": {
+        "home": 2113,
+        "away": 1926,
+        "difference": 187
+      },
+      "date": "2018-07-06T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "QF",
+      "home_team": {
+        "code": "SWE",
+        "name": "Sweden"
+      },
+      "away_team": {
+        "code": "ENG",
+        "name": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "away_win",
+      "winner": "ENG",
+      "elo_pre_tournament": {
+        "home": 1850,
+        "away": 1932,
+        "difference": -82
+      },
+      "date": "2018-07-07T14:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "QF",
+      "home_team": {
+        "code": "RUS",
+        "name": "Russia"
+      },
+      "away_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "penalties": {
+        "home": 3,
+        "away": 4
+      },
+      "result": "away_win",
+      "winner": "CRO",
+      "elo_pre_tournament": {
+        "home": 1835,
+        "away": 1858,
+        "difference": -23
+      },
+      "date": "2018-07-07T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "SF",
+      "home_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "away_team": {
+        "code": "BEL",
+        "name": "Belgium"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "FRA",
+      "elo_pre_tournament": {
+        "home": 1988,
+        "away": 1926,
+        "difference": 62
+      },
+      "date": "2018-07-10T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "SF",
+      "home_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "away_team": {
+        "code": "ENG",
+        "name": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "CRO",
+      "elo_pre_tournament": {
+        "home": 1858,
+        "away": 1932,
+        "difference": -74
+      },
+      "date": "2018-07-11T18:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "Third",
+      "home_team": {
+        "code": "BEL",
+        "name": "Belgium"
+      },
+      "away_team": {
+        "code": "ENG",
+        "name": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "BEL",
+      "elo_pre_tournament": {
+        "home": 1926,
+        "away": 1932,
+        "difference": -6
+      },
+      "date": "2018-07-14T14:00:00Z"
+    },
+    {
+      "year": 2018,
+      "phase": "Final",
+      "home_team": {
+        "code": "FRA",
+        "name": "France"
+      },
+      "away_team": {
+        "code": "CRO",
+        "name": "Croatia"
+      },
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "penalties": {
+        "home": 0,
+        "away": 0
+      },
+      "result": "home_win",
+      "winner": "FRA",
+      "elo_pre_tournament": {
+        "home": 1988,
+        "away": 1858,
+        "difference": 130
+      },
+      "date": "2018-07-15T15:00:00Z"
+    }
+  ],
+  "elo_ratings": {
+    "2018": {
+      "BRA": {
+        "name": "Brazil",
+        "code": "BRA",
+        "elo_rating": 2113
+      },
+      "GER": {
+        "name": "Germany",
+        "code": "GER",
+        "elo_rating": 2108
+      },
+      "ESP": {
+        "name": "Spain",
+        "code": "ESP",
+        "elo_rating": 2030
+      },
+      "POR": {
+        "name": "Portugal",
+        "code": "POR",
+        "elo_rating": 1993
+      },
+      "FRA": {
+        "name": "France",
+        "code": "FRA",
+        "elo_rating": 1988
+      },
+      "ARG": {
+        "name": "Argentina",
+        "code": "ARG",
+        "elo_rating": 1983
+      },
+      "ENG": {
+        "name": "England",
+        "code": "ENG",
+        "elo_rating": 1932
+      },
+      "BEL": {
+        "name": "Belgium",
+        "code": "BEL",
+        "elo_rating": 1926
+      },
+      "COL": {
+        "name": "Colombia",
+        "code": "COL",
+        "elo_rating": 1926
+      },
+      "URU": {
+        "name": "Uruguay",
+        "code": "URU",
+        "elo_rating": 1866
+      },
+      "SUI": {
+        "name": "Switzerland",
+        "code": "SUI",
+        "elo_rating": 1865
+      },
+      "CRO": {
+        "name": "Croatia",
+        "code": "CRO",
+        "elo_rating": 1858
+      },
+      "MEX": {
+        "name": "Mexico",
+        "code": "MEX",
+        "elo_rating": 1853
+      },
+      "SWE": {
+        "name": "Sweden",
+        "code": "SWE",
+        "elo_rating": 1850
+      },
+      "DEN": {
+        "name": "Denmark",
+        "code": "DEN",
+        "elo_rating": 1845
+      },
+      "RUS": {
+        "name": "Russia",
+        "code": "RUS",
+        "elo_rating": 1835
+      },
+      "PER": {
+        "name": "Peru",
+        "code": "PER",
+        "elo_rating": 1881
+      },
+      "SRB": {
+        "name": "Serbia",
+        "code": "SRB",
+        "elo_rating": 1825
+      },
+      "POL": {
+        "name": "Poland",
+        "code": "POL",
+        "elo_rating": 1830
+      },
+      "JPN": {
+        "name": "Japan",
+        "code": "JPN",
+        "elo_rating": 1810
+      },
+      "KOR": {
+        "name": "Korea Republic",
+        "code": "KOR",
+        "elo_rating": 1800
+      },
+      "AUS": {
+        "name": "Australia",
+        "code": "AUS",
+        "elo_rating": 1790
+      },
+      "IRN": {
+        "name": "Iran",
+        "code": "IRN",
+        "elo_rating": 1785
+      },
+      "MAR": {
+        "name": "Morocco",
+        "code": "MAR",
+        "elo_rating": 1780
+      },
+      "SEN": {
+        "name": "Senegal",
+        "code": "SEN",
+        "elo_rating": 1775
+      },
+      "CRC": {
+        "name": "Costa Rica",
+        "code": "CRC",
+        "elo_rating": 1770
+      },
+      "KSA": {
+        "name": "Saudi Arabia",
+        "code": "KSA",
+        "elo_rating": 1755
+      },
+      "TUN": {
+        "name": "Tunisia",
+        "code": "TUN",
+        "elo_rating": 1745
+      },
+      "EGY": {
+        "name": "Egypt",
+        "code": "EGY",
+        "elo_rating": 1740
+      },
+      "ISL": {
+        "name": "Iceland",
+        "code": "ISL",
+        "elo_rating": 1730
+      },
+      "NGA": {
+        "name": "Nigeria",
+        "code": "NGA",
+        "elo_rating": 1725
+      },
+      "PAN": {
+        "name": "Panama",
+        "code": "PAN",
+        "elo_rating": 1710
+      }
+    },
+    "2022": {
+      "BRA": {
+        "name": "Brazil",
+        "code": "BRA",
+        "elo_rating": 2149
+      },
+      "FRA": {
+        "name": "France",
+        "code": "FRA",
+        "elo_rating": 2114
+      },
+      "ARG": {
+        "name": "Argentina",
+        "code": "ARG",
+        "elo_rating": 2101
+      },
+      "BEL": {
+        "name": "Belgium",
+        "code": "BEL",
+        "elo_rating": 2074
+      },
+      "ESP": {
+        "name": "Spain",
+        "code": "ESP",
+        "elo_rating": 2036
+      },
+      "ENG": {
+        "name": "England",
+        "code": "ENG",
+        "elo_rating": 2031
+      },
+      "POR": {
+        "name": "Portugal",
+        "code": "POR",
+        "elo_rating": 1972
+      },
+      "GER": {
+        "name": "Germany",
+        "code": "GER",
+        "elo_rating": 1962
+      },
+      "DEN": {
+        "name": "Denmark",
+        "code": "DEN",
+        "elo_rating": 1937
+      },
+      "SUI": {
+        "name": "Switzerland",
+        "code": "SUI",
+        "elo_rating": 1933
+      },
+      "NED": {
+        "name": "Netherlands",
+        "code": "NED",
+        "elo_rating": 1929
+      },
+      "CRO": {
+        "name": "Croatia",
+        "code": "CRO",
+        "elo_rating": 1858
+      },
+      "URU": {
+        "name": "Uruguay",
+        "code": "URU",
+        "elo_rating": 1875
+      },
+      "MAR": {
+        "name": "Morocco",
+        "code": "MAR",
+        "elo_rating": 1850
+      },
+      "JPN": {
+        "name": "Japan",
+        "code": "JPN",
+        "elo_rating": 1835
+      },
+      "ECU": {
+        "name": "Ecuador",
+        "code": "ECU",
+        "elo_rating": 1820
+      },
+      "SEN": {
+        "name": "Senegal",
+        "code": "SEN",
+        "elo_rating": 1815
+      },
+      "MEX": {
+        "name": "Mexico",
+        "code": "MEX",
+        "elo_rating": 1810
+      },
+      "USA": {
+        "name": "United States",
+        "code": "USA",
+        "elo_rating": 1810
+      },
+      "POL": {
+        "name": "Poland",
+        "code": "POL",
+        "elo_rating": 1805
+      },
+      "AUS": {
+        "name": "Australia",
+        "code": "AUS",
+        "elo_rating": 1790
+      },
+      "KOR": {
+        "name": "Korea Republic",
+        "code": "KOR",
+        "elo_rating": 1795
+      },
+      "IRN": {
+        "name": "Iran",
+        "code": "IRN",
+        "elo_rating": 1775
+      },
+      "CMR": {
+        "name": "Cameroon",
+        "code": "CMR",
+        "elo_rating": 1755
+      },
+      "TUN": {
+        "name": "Tunisia",
+        "code": "TUN",
+        "elo_rating": 1760
+      },
+      "CRC": {
+        "name": "Costa Rica",
+        "code": "CRC",
+        "elo_rating": 1760
+      },
+      "KSA": {
+        "name": "Saudi Arabia",
+        "code": "KSA",
+        "elo_rating": 1740
+      },
+      "WAL": {
+        "name": "Wales",
+        "code": "WAL",
+        "elo_rating": 1735
+      },
+      "QAT": {
+        "name": "Qatar",
+        "code": "QAT",
+        "elo_rating": 1700
+      },
+      "GHA": {
+        "name": "Ghana",
+        "code": "GHA",
+        "elo_rating": 1685
+      },
+      "SRB": {
+        "name": "Serbia",
+        "code": "SRB",
+        "elo_rating": 1875
+      },
+      "CAN": {
+        "name": "Canada",
+        "code": "CAN",
+        "elo_rating": 1860
+      }
+    }
+  }
+}

@@ -1,0 +1,7005 @@
+{
+  "FRA": {
+    "nombre": "Francia",
+    "partidos": [
+      {
+        "partido": "FRA vs SEN",
+        "stage": "Grupo",
+        "match_id": 400021490,
+        "nuestro_equipo": "FRA",
+        "rival": "SEN",
+        "resultado": "3-1",
+        "nuestro_score": 3,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-3-3",
+        "nuestro_entrenador": "Didier Deschamps",
+        "entrenador_rival": "Pape THIAW",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Kylian MBAPPE",
+            "minute": "66'",
+            "type": "regular",
+            "id_player": "389867"
+          },
+          {
+            "player_name": "Bradley BARCOLA",
+            "minute": "82'",
+            "type": "regular",
+            "id_player": "484860"
+          },
+          {
+            "player_name": "Kylian MBAPPE",
+            "minute": "90'+6'",
+            "type": "regular",
+            "id_player": "389867"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Ibrahim MBAYE",
+            "minute": "90'+5'",
+            "type": "regular",
+            "id_player": "496358"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "448332",
+            "name": "Mike MAIGNAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "389876",
+            "name": "Dayot UPAMECANO",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "430707",
+            "name": "Jules KOUNDE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "419177",
+            "name": "William SALIBA",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "408042",
+            "name": "Theo HERNANDEZ",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "405893",
+            "name": "Aurelien TCHOUAMENI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "402047",
+            "name": "Adrien RABIOT",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "398680",
+            "name": "Ousmane DEMBELE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "389867",
+            "name": "Kylian MBAPPE",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "485655",
+            "name": "Michael OLISE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "464114",
+            "name": "Desire DOUE",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "433806",
+            "name": "Edouard MENDY",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "339820",
+            "name": "Kalidou KOULIBALY",
+            "shirt_number": 3,
+            "captain": true
+          },
+          {
+            "id_player": "403642",
+            "name": "Krepin DIATTA",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "430690",
+            "name": "Moussa Niakhate",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "464865",
+            "name": "El Hadji Malick DIOUF",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "332314",
+            "name": "Idrissa Gana GUEYE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "464842",
+            "name": "Lamine CAMARA",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "431788",
+            "name": "Pape GUEYE",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "353790",
+            "name": "Sadio MANE",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "418795",
+            "name": "Nicolas JACKSON",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "401889",
+            "name": "Ismaila SARR",
+            "shirt_number": 18,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "FRA vs IRQ",
+        "stage": "Grupo",
+        "match_id": 400021492,
+        "nuestro_equipo": "FRA",
+        "rival": "IRQ",
+        "resultado": "3-0",
+        "nuestro_score": 3,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Didier Deschamps",
+        "entrenador_rival": "Graham James Arnold",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Kylian MBAPPE",
+            "minute": "14'",
+            "type": "regular",
+            "id_player": "389867"
+          },
+          {
+            "player_name": "Kylian MBAPPE",
+            "minute": "54'",
+            "type": "regular",
+            "id_player": "389867"
+          },
+          {
+            "player_name": "Ousmane DEMBELE",
+            "minute": "66'",
+            "type": "regular",
+            "id_player": "398680"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "448332",
+            "name": "Mike MAIGNAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "368860",
+            "name": "Lucas Digne",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "389876",
+            "name": "Dayot UPAMECANO",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "430707",
+            "name": "Jules KOUNDE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "419177",
+            "name": "William SALIBA",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "485677",
+            "name": "Manu KONE",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "402047",
+            "name": "Adrien RABIOT",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "398680",
+            "name": "Ousmane DEMBELE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "389867",
+            "name": "Kylian MBAPPE",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "485655",
+            "name": "Michael OLISE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "484860",
+            "name": "Bradley BARCOLA",
+            "shirt_number": 12,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "433571",
+            "name": "AHMED BASIL",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "479553",
+            "name": "Hussein Ali",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "434025",
+            "name": "ZAID TAHSEEN",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "481183",
+            "name": "AKAM HASHIM",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "479072",
+            "name": "MERCHAS DOSKI",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "433585",
+            "name": "IBRAHIM BAYESH",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "434026",
+            "name": "ZIDANE IQBAL",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "433074",
+            "name": "AMIR ALAMMARI",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "484270",
+            "name": "ZAID ISMAEL",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "523236",
+            "name": "AHMED QASEM",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "395186",
+            "name": "AYMEN HUSSEIN",
+            "shirt_number": 18,
+            "captain": true
+          }
+        ]
+      },
+      {
+        "partido": "NOR vs FRA",
+        "stage": "Grupo",
+        "match_id": 400021489,
+        "nuestro_equipo": "FRA",
+        "rival": "NOR",
+        "resultado": "4-1",
+        "nuestro_score": 4,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": null,
+        "entrenador_rival": "Ståle Solbakken",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Ousmane DEMBELE",
+            "minute": "7'",
+            "type": "regular",
+            "id_player": "398680"
+          },
+          {
+            "player_name": "Ousmane DEMBELE",
+            "minute": "20'",
+            "type": "regular",
+            "id_player": "398680"
+          },
+          {
+            "player_name": "Ousmane DEMBELE",
+            "minute": "32'",
+            "type": "regular",
+            "id_player": "398680"
+          },
+          {
+            "player_name": "Desire DOUE",
+            "minute": "90'+4'",
+            "type": "regular",
+            "id_player": "464114"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Thelo AASGAARD",
+            "minute": "21'",
+            "type": "regular",
+            "id_player": "494627"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "448332",
+            "name": "Mike MAIGNAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "389876",
+            "name": "Dayot UPAMECANO",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "430707",
+            "name": "Jules KOUNDE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "408042",
+            "name": "Theo HERNANDEZ",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "405881",
+            "name": "Maxence Lacroix",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "485677",
+            "name": "Manu KONE",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "405893",
+            "name": "Aurelien TCHOUAMENI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "398680",
+            "name": "Ousmane DEMBELE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "389867",
+            "name": "Kylian MBAPPE",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "485655",
+            "name": "Michael OLISE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "464114",
+            "name": "Desire DOUE",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "483535",
+            "name": "Egil SELVIK",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "419672",
+            "name": "Leo OSTIGARD",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "483530",
+            "name": "Fredrik Andre BJORKAN",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "520112",
+            "name": "Henrik FALCHENER",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "483442",
+            "name": "Patrick BERG",
+            "shirt_number": 6,
+            "captain": true
+          },
+          {
+            "id_player": "483497",
+            "name": "Fredrik AURSNES",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "419681",
+            "name": "Kristian Thorstvedt",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "494627",
+            "name": "Thelo AASGAARD",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "494626",
+            "name": "Andreas SCHJELDERUP",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "477470",
+            "name": "Oscar BOBB",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "419662",
+            "name": "Jorgen STRAND LARSEN",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "FRA vs SWE",
+        "stage": "R32",
+        "match_id": 400021523,
+        "nuestro_equipo": "FRA",
+        "rival": "SWE",
+        "resultado": "3-0",
+        "nuestro_score": 3,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Didier Deschamps",
+        "entrenador_rival": "Graham POTTER",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Kylian MBAPPE",
+            "minute": "45'",
+            "type": "regular",
+            "id_player": "389867"
+          },
+          {
+            "player_name": "Bradley BARCOLA",
+            "minute": "53'",
+            "type": "regular",
+            "id_player": "484860"
+          },
+          {
+            "player_name": "Kylian MBAPPE",
+            "minute": "74'",
+            "type": "regular",
+            "id_player": "389867"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "448332",
+            "name": "Mike MAIGNAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "368860",
+            "name": "Lucas Digne",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "389876",
+            "name": "Dayot UPAMECANO",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "430707",
+            "name": "Jules KOUNDE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "419177",
+            "name": "William SALIBA",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "405893",
+            "name": "Aurelien TCHOUAMENI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "402047",
+            "name": "Adrien RABIOT",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "398680",
+            "name": "Ousmane DEMBELE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "389867",
+            "name": "Kylian MBAPPE",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "485655",
+            "name": "Michael OLISE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "484860",
+            "name": "Bradley BARCOLA",
+            "shirt_number": 12,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "489685",
+            "name": "Jacob WIDELL ZETTERSTROM",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "483304",
+            "name": "Gustaf LAGERBIELKE",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "395283",
+            "name": "Victor LINDELOF",
+            "shirt_number": 3,
+            "captain": true
+          },
+          {
+            "id_player": "483276",
+            "name": "Gabriel GUDMUNDSSON",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "491255",
+            "name": "Daniel SVENSSON",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "519958",
+            "name": "Elliot STROUD",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "489689",
+            "name": "Lucas BERGVALL",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "489688",
+            "name": "Yasin AYARI",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "430150",
+            "name": "Alexander Isak",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "441137",
+            "name": "Anthony ELANGA",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "483327",
+            "name": "Viktor GYOKERES",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "PAR vs FRA",
+        "stage": "R16",
+        "match_id": 400021533,
+        "nuestro_equipo": "FRA",
+        "rival": "PAR",
+        "resultado": "1-0",
+        "nuestro_score": 1,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "5-4-1",
+        "nuestro_entrenador": "Didier Deschamps",
+        "entrenador_rival": "Gustavo ALFARO",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Kylian MBAPPE",
+            "minute": "70'",
+            "type": "penalty_shootout",
+            "id_player": "389867"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "448332",
+            "name": "Mike MAIGNAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "368860",
+            "name": "Lucas Digne",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "389876",
+            "name": "Dayot UPAMECANO",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "430707",
+            "name": "Jules KOUNDE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "419177",
+            "name": "William SALIBA",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "485677",
+            "name": "Manu KONE",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "402047",
+            "name": "Adrien RABIOT",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "398680",
+            "name": "Ousmane DEMBELE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "389867",
+            "name": "Kylian MBAPPE",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "485655",
+            "name": "Michael OLISE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "484860",
+            "name": "Bradley BARCOLA",
+            "shirt_number": 12,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "494531",
+            "name": "Orlando GILL",
+            "shirt_number": 12,
+            "captain": false
+          },
+          {
+            "id_player": "486875",
+            "name": "Gustavo VELAZQUEZ",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "431202",
+            "name": "Omar ALDERETE",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "479601",
+            "name": "Juan Jose CACERES",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "369749",
+            "name": "Junior ALONSO",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "369744",
+            "name": "Gustavo GOMEZ",
+            "shirt_number": 15,
+            "captain": true
+          },
+          {
+            "id_player": "463128",
+            "name": "Diego GOMEZ",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "369761",
+            "name": "Miguel ALMIRON",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "385306",
+            "name": "Andres CUBAS",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "424422",
+            "name": "Matias GALARZA",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "441234",
+            "name": "Julio ENCISO",
+            "shirt_number": 19,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  },
+  "MAR": {
+    "nombre": "Marruecos",
+    "partidos": [
+      {
+        "partido": "BRA vs MAR",
+        "stage": "Grupo",
+        "match_id": 400021456,
+        "nuestro_equipo": "MAR",
+        "rival": "BRA",
+        "resultado": "1-1",
+        "nuestro_score": 1,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Mohamed OUAHBI",
+        "entrenador_rival": "Carlo Ancelotti",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Ismael SAIBARI",
+            "minute": "21'",
+            "type": "regular",
+            "id_player": "448598"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "VINICIUS JUNIOR",
+            "minute": "32'",
+            "type": "regular",
+            "id_player": "405742"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "356956",
+            "name": "Yassine BOUNOU",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "400721",
+            "name": "Achraf HAKIMI",
+            "shirt_number": 2,
+            "captain": true
+          },
+          {
+            "id_player": "411680",
+            "name": "Noussair MAZRAOUI",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "403083",
+            "name": "Issa Diop",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "448607",
+            "name": "Chadi RIAD",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "485760",
+            "name": "Ayyoub BOUADDI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "441307",
+            "name": "Azzedine OUNAHI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448598",
+            "name": "Ismael SAIBARI",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448612",
+            "name": "Bilal EL KHANNOUSS",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "485740",
+            "name": "Neil EL AYNAOUI",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "430740",
+            "name": "Brahim DIAZ",
+            "shirt_number": 10,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "308370",
+            "name": "ALISSON",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "430601",
+            "name": "GABRIEL MAGALHAES",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "332946",
+            "name": "MARQUINHOS",
+            "shirt_number": 4,
+            "captain": true
+          },
+          {
+            "id_player": "367981",
+            "name": "DOUGLAS SANTOS",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "430594",
+            "name": "ROGER IBANEZ",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "308386",
+            "name": "CASEMIRO",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "430605",
+            "name": "BRUNO GUIMARAES",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "411726",
+            "name": "LUCAS PAQUETA",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "405742",
+            "name": "VINICIUS JUNIOR",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "433872",
+            "name": "RAPHINHA",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "519836",
+            "name": "IGOR THIAGO",
+            "shirt_number": 25,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "SCO vs MAR",
+        "stage": "Grupo",
+        "match_id": 400021454,
+        "nuestro_equipo": "MAR",
+        "rival": "SCO",
+        "resultado": "1-0",
+        "nuestro_score": 1,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Mohamed OUAHBI",
+        "entrenador_rival": "Stephen Clark",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Ismael SAIBARI",
+            "minute": "2'",
+            "type": "regular",
+            "id_player": "448598"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "356956",
+            "name": "Yassine BOUNOU",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "400721",
+            "name": "Achraf HAKIMI",
+            "shirt_number": 2,
+            "captain": true
+          },
+          {
+            "id_player": "411680",
+            "name": "Noussair MAZRAOUI",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "403083",
+            "name": "Issa Diop",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "448607",
+            "name": "Chadi RIAD",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "485760",
+            "name": "Ayyoub BOUADDI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "441307",
+            "name": "Azzedine OUNAHI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448598",
+            "name": "Ismael SAIBARI",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448612",
+            "name": "Bilal EL KHANNOUSS",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "485740",
+            "name": "Neil EL AYNAOUI",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "430740",
+            "name": "Brahim DIAZ",
+            "shirt_number": 10,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "411301",
+            "name": "Angus Gunn",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "401339",
+            "name": "Andy ROBERTSON",
+            "shirt_number": 3,
+            "captain": true
+          },
+          {
+            "id_player": "359634",
+            "name": "Grant Hanley",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "401712",
+            "name": "Kieran Tierney",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "430147",
+            "name": "Jack Hendry",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "433694",
+            "name": "Nathan PATTERSON",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "433787",
+            "name": "Scott McTominay",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "401334",
+            "name": "John McGinn",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "430097",
+            "name": "Ryan Christie",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "442434",
+            "name": "Lewis FERGUSON",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "433191",
+            "name": "Che Adams",
+            "shirt_number": 10,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "MAR vs HAI",
+        "stage": "Grupo",
+        "match_id": 400021452,
+        "nuestro_equipo": "MAR",
+        "rival": "HAI",
+        "resultado": "4-2",
+        "nuestro_score": 4,
+        "rival_score": 2,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Mohamed OUAHBI",
+        "entrenador_rival": "Sebastien MIGNE",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Achraf HAKIMI",
+            "minute": "39'",
+            "type": "regular",
+            "id_player": "400721"
+          },
+          {
+            "player_name": "Ismael SAIBARI",
+            "minute": "45'+1'",
+            "type": "regular",
+            "id_player": "448598"
+          },
+          {
+            "player_name": "Soufiane RAHIMI",
+            "minute": "78'",
+            "type": "regular",
+            "id_player": "433426"
+          },
+          {
+            "player_name": "Gessime YASSINE",
+            "minute": "89'",
+            "type": "regular",
+            "id_player": "505112"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Yassine BOUNOU",
+            "minute": "10'",
+            "type": "own_goal",
+            "id_player": "356956"
+          },
+          {
+            "player_name": "Wilson Isidor",
+            "minute": "43'",
+            "type": "regular",
+            "id_player": "405879"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "356956",
+            "name": "Yassine BOUNOU",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "400721",
+            "name": "Achraf HAKIMI",
+            "shirt_number": 2,
+            "captain": true
+          },
+          {
+            "id_player": "448607",
+            "name": "Chadi RIAD",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "485767",
+            "name": "Redouane HALHAL",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "424071",
+            "name": "Anass SALAH EDDINE",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "372266",
+            "name": "Sofyan AMRABAT",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "448598",
+            "name": "Ismael SAIBARI",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448612",
+            "name": "Bilal EL KHANNOUSS",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "485740",
+            "name": "Neil EL AYNAOUI",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "430740",
+            "name": "Brahim DIAZ",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "411678",
+            "name": "Ayoub El Kaabi",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "295922",
+            "name": "Johny Placide",
+            "shirt_number": 1,
+            "captain": true
+          },
+          {
+            "id_player": "275917",
+            "name": "Ricardo Ade",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "448363",
+            "name": "Hannes DELCROIX",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "489300",
+            "name": "Martin EXPERIENCE",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "431781",
+            "name": "Jean-Kevin DUVERNE",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "430697",
+            "name": "Jean-Ricner Bellegarde",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "466838",
+            "name": "Danley JEAN JACQUES",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "485664",
+            "name": "Ruben PROVIDENCE",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "485676",
+            "name": "Lenny JOSEPH",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "405879",
+            "name": "Wilson Isidor",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "510757",
+            "name": "Josue CASIMIR",
+            "shirt_number": 21,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "NED vs MAR",
+        "stage": "R32",
+        "match_id": 400021522,
+        "nuestro_equipo": "MAR",
+        "rival": "NED",
+        "resultado": "1-1",
+        "nuestro_score": 1,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "3-4-3",
+        "nuestro_entrenador": "Mohamed OUAHBI",
+        "entrenador_rival": "Ronald KOEMAN",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Issa Diop",
+            "minute": "90'+1'",
+            "type": "regular",
+            "id_player": "403083"
+          },
+          {
+            "player_name": "Soufiane RAHIMI",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "433426"
+          },
+          {
+            "player_name": "Chemsdine TALBI",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "494293"
+          },
+          {
+            "player_name": "Ismael SAIBARI",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "448598"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Cody GAKPO",
+            "minute": "72'",
+            "type": "regular",
+            "id_player": "448152"
+          },
+          {
+            "player_name": "Teun KOOPMEINERS",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "448149"
+          },
+          {
+            "player_name": "Wout WEGHORST",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "448159"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "356956",
+            "name": "Yassine BOUNOU",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "400721",
+            "name": "Achraf HAKIMI",
+            "shirt_number": 2,
+            "captain": true
+          },
+          {
+            "id_player": "411680",
+            "name": "Noussair MAZRAOUI",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "403083",
+            "name": "Issa Diop",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "448607",
+            "name": "Chadi RIAD",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "485760",
+            "name": "Ayyoub BOUADDI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "441307",
+            "name": "Azzedine OUNAHI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448598",
+            "name": "Ismael SAIBARI",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448612",
+            "name": "Bilal EL KHANNOUSS",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "485740",
+            "name": "Neil EL AYNAOUI",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "430740",
+            "name": "Brahim DIAZ",
+            "shirt_number": 10,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "424081",
+            "name": "Bart Verbruggen",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "397786",
+            "name": "Virgil VAN DIJK",
+            "shirt_number": 4,
+            "captain": true
+          },
+          {
+            "id_player": "336088",
+            "name": "Nathan AKE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "489517",
+            "name": "Jan Paul VAN HECKE",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "448140",
+            "name": "Micky VAN DE VEN",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "436612",
+            "name": "Denzel DUMFRIES",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "430176",
+            "name": "Ryan GRAVENBERCH",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "422657",
+            "name": "Frenkie DE JONG",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "448152",
+            "name": "Cody GAKPO",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "424051",
+            "name": "Brian BROBBEY",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "489518",
+            "name": "Crysencio SUMMERVILLE",
+            "shirt_number": 24,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "CAN vs MAR",
+        "stage": "R16",
+        "match_id": 400021530,
+        "nuestro_equipo": "MAR",
+        "rival": "CAN",
+        "resultado": "3-0",
+        "nuestro_score": 3,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Mohamed OUAHBI",
+        "entrenador_rival": "Jesse Alan Marsch",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Azzedine OUNAHI",
+            "minute": "50'",
+            "type": "regular",
+            "id_player": "441307"
+          },
+          {
+            "player_name": "Azzedine OUNAHI",
+            "minute": "82'",
+            "type": "regular",
+            "id_player": "441307"
+          },
+          {
+            "player_name": "Soufiane RAHIMI",
+            "minute": "90'+8'",
+            "type": "regular",
+            "id_player": "433426"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "356956",
+            "name": "Yassine BOUNOU",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "400721",
+            "name": "Achraf HAKIMI",
+            "shirt_number": 2,
+            "captain": true
+          },
+          {
+            "id_player": "411680",
+            "name": "Noussair MAZRAOUI",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "403083",
+            "name": "Issa Diop",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "485767",
+            "name": "Redouane HALHAL",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "485760",
+            "name": "Ayyoub BOUADDI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "441307",
+            "name": "Azzedine OUNAHI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448598",
+            "name": "Ismael SAIBARI",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448612",
+            "name": "Bilal EL KHANNOUSS",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "485740",
+            "name": "Neil EL AYNAOUI",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "430740",
+            "name": "Brahim DIAZ",
+            "shirt_number": 10,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "331732",
+            "name": "Maxime CREPEAU",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "441252",
+            "name": "Alistair JOHNSTON",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "480322",
+            "name": "Luc DE FOUGEROLLES",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "466585",
+            "name": "Moise BOMBITO",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "431696",
+            "name": "Richie LARYEA",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "485064",
+            "name": "Niko SIGUR",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "433635",
+            "name": "Stephen EUSTAQUIO",
+            "shirt_number": 7,
+            "captain": true
+          },
+          {
+            "id_player": "441257",
+            "name": "Jonathan DAVID",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "486929",
+            "name": "Tani OLUWASEYI",
+            "shirt_number": 12,
+            "captain": false
+          },
+          {
+            "id_player": "430138",
+            "name": "Tajon BUCHANAN",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "466687",
+            "name": "Ali AHMED",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  },
+  "ESP": {
+    "nombre": "España",
+    "partidos": [
+      {
+        "partido": "ESP vs CPV",
+        "stage": "Grupo",
+        "match_id": 400021482,
+        "nuestro_equipo": "ESP",
+        "rival": "CPV",
+        "resultado": "0-0",
+        "nuestro_score": 0,
+        "rival_score": 0,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": "Luis de la Fuente Castillo",
+        "entrenador_rival": "Pedro Leitão Brito",
+        "nuestros_goleadores": [],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "430753",
+            "name": "Unai SIMON",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "382739",
+            "name": "Marcos LLORENTE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "335999",
+            "name": "Aymeric LAPORTE",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "474973",
+            "name": "Pau CUBARSI",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "430735",
+            "name": "Marc CUCURELLA",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "430718",
+            "name": "Fabian RUIZ",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "447866",
+            "name": "GAVI",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "411375",
+            "name": "RODRI",
+            "shirt_number": 16,
+            "captain": true
+          },
+          {
+            "id_player": "423646",
+            "name": "PEDRI",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "405545",
+            "name": "Ferran TORRES",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "430751",
+            "name": "Mikel OYARZABAL",
+            "shirt_number": 21,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "364752",
+            "name": "VOZINHA",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "409241",
+            "name": "DINEY BORGES",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "477770",
+            "name": "PICO LOPES",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "477832",
+            "name": "SIDNY LOPES CABRAL",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "477847",
+            "name": "STEVEN MOREIRA",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "477852",
+            "name": "KEVIN PINA",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "477856",
+            "name": "JOVANE CABRAL",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "401894",
+            "name": "JAMIRO MONTEIRO",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "480966",
+            "name": "LAROS DUARTE",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "482782",
+            "name": "DAILON LIVRAMENTO",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "355642",
+            "name": "RYAN MENDES",
+            "shirt_number": 20,
+            "captain": true
+          }
+        ]
+      },
+      {
+        "partido": "ESP vs KSA",
+        "stage": "Grupo",
+        "match_id": 400021483,
+        "nuestro_equipo": "ESP",
+        "rival": "KSA",
+        "resultado": "4-0",
+        "nuestro_score": 4,
+        "rival_score": 0,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "5-4-1",
+        "nuestro_entrenador": "Luis de la Fuente Castillo",
+        "entrenador_rival": "Georgios DONIS",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Lamine YAMAL",
+            "minute": "10'",
+            "type": "regular",
+            "id_player": "484320"
+          },
+          {
+            "player_name": "Mikel OYARZABAL",
+            "minute": "21'",
+            "type": "regular",
+            "id_player": "430751"
+          },
+          {
+            "player_name": "Mikel OYARZABAL",
+            "minute": "24'",
+            "type": "regular",
+            "id_player": "430751"
+          },
+          {
+            "player_name": "HASSAN ALTAMBAKTI",
+            "minute": "49'",
+            "type": "own_goal",
+            "id_player": "403335"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "430753",
+            "name": "Unai SIMON",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "430144",
+            "name": "Pedro PORRO",
+            "shirt_number": 12,
+            "captain": false
+          },
+          {
+            "id_player": "335999",
+            "name": "Aymeric LAPORTE",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "474973",
+            "name": "Pau CUBARSI",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "430735",
+            "name": "Marc CUCURELLA",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "447860",
+            "name": "Alex BAENA",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "411375",
+            "name": "RODRI",
+            "shirt_number": 16,
+            "captain": true
+          },
+          {
+            "id_player": "423646",
+            "name": "PEDRI",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "430750",
+            "name": "Dani OLMO",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "484320",
+            "name": "Lamine YAMAL",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "430751",
+            "name": "Mikel OYARZABAL",
+            "shirt_number": 21,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "396885",
+            "name": "MOHAMMED ALOWAIS",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "433439",
+            "name": "ALI LAJAMI",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "403312",
+            "name": "Abdulelah ALAMRI",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "403335",
+            "name": "HASSAN ALTAMBAKTI",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "419281",
+            "name": "SAUD ABDULHAMID",
+            "shirt_number": 12,
+            "captain": false
+          },
+          {
+            "id_player": "419303",
+            "name": "MOTEB ALHARBI",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "403319",
+            "name": "NASSER ALDAWSARI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "436537",
+            "name": "MUSAB ALJUWAYR",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "411624",
+            "name": "ABDULLAH ALKHAIBARI",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "419291",
+            "name": "FERAS ALBRIKAN",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "339745",
+            "name": "SALEM ALDAWSARI",
+            "shirt_number": 10,
+            "captain": true
+          }
+        ]
+      },
+      {
+        "partido": "URU vs ESP",
+        "stage": "Grupo",
+        "match_id": 400021484,
+        "nuestro_equipo": "ESP",
+        "rival": "URU",
+        "resultado": "1-0",
+        "nuestro_score": 1,
+        "rival_score": 0,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": "Luis de la Fuente Castillo",
+        "entrenador_rival": "Marcelo BIELSA",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Alex BAENA",
+            "minute": "42'",
+            "type": "regular",
+            "id_player": "447860"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "430753",
+            "name": "Unai SIMON",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "382739",
+            "name": "Marcos LLORENTE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "335999",
+            "name": "Aymeric LAPORTE",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "474973",
+            "name": "Pau CUBARSI",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "430735",
+            "name": "Marc CUCURELLA",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "430733",
+            "name": "Mikel MERINO",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "447860",
+            "name": "Alex BAENA",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "411375",
+            "name": "RODRI",
+            "shirt_number": 16,
+            "captain": true
+          },
+          {
+            "id_player": "423646",
+            "name": "PEDRI",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "484320",
+            "name": "Lamine YAMAL",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "430751",
+            "name": "Mikel OYARZABAL",
+            "shirt_number": 21,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "229498",
+            "name": "Fernando MUSLERA",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "419108",
+            "name": "Sebastian CACERES",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "368660",
+            "name": "Guillermo VARELA",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "402893",
+            "name": "Mathias OLIVERA",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "441623",
+            "name": "Manuel UGARTE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "386538",
+            "name": "Rodrigo BENTANCUR",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "402884",
+            "name": "Federico VALVERDE",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "402876",
+            "name": "Agustin CANOBBIO",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "419100",
+            "name": "Maxi ARAUJO",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "419134",
+            "name": "Juan Manuel SANABRIA",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "419126",
+            "name": "Darwin NUNEZ",
+            "shirt_number": 9,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "ESP vs AUT",
+        "stage": "R32",
+        "match_id": 400021519,
+        "nuestro_equipo": "ESP",
+        "rival": "AUT",
+        "resultado": "3-0",
+        "nuestro_score": 3,
+        "rival_score": 0,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Luis de la Fuente Castillo",
+        "entrenador_rival": "Ralf RANGNICK",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Mikel OYARZABAL",
+            "minute": "36'",
+            "type": "regular",
+            "id_player": "430751"
+          },
+          {
+            "player_name": "Pedro PORRO",
+            "minute": "66'",
+            "type": "regular",
+            "id_player": "430144"
+          },
+          {
+            "player_name": "Mikel OYARZABAL",
+            "minute": "89'",
+            "type": "regular",
+            "id_player": "430751"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "430753",
+            "name": "Unai SIMON",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "430144",
+            "name": "Pedro PORRO",
+            "shirt_number": 12,
+            "captain": false
+          },
+          {
+            "id_player": "335999",
+            "name": "Aymeric LAPORTE",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "474973",
+            "name": "Pau CUBARSI",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "430735",
+            "name": "Marc CUCURELLA",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "447860",
+            "name": "Alex BAENA",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "411375",
+            "name": "RODRI",
+            "shirt_number": 16,
+            "captain": true
+          },
+          {
+            "id_player": "423646",
+            "name": "PEDRI",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "430750",
+            "name": "Dani OLMO",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "484320",
+            "name": "Lamine YAMAL",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "430751",
+            "name": "Mikel OYARZABAL",
+            "shirt_number": 21,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "371739",
+            "name": "Alexander SCHLAGER",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "405263",
+            "name": "Kevin Danso",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "441067",
+            "name": "Stefan POSCH",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "316002",
+            "name": "David ALABA",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "385531",
+            "name": "Xaver Schlager",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "441088",
+            "name": "Nicolas SEIWALD",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "358241",
+            "name": "Marcel SABITZER",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "463283",
+            "name": "Romano SCHMID",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "385259",
+            "name": "Konrad LAIMER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "520036",
+            "name": "Paul WANNER",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "401131",
+            "name": "Michael Gregoritsch",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "POR vs ESP",
+        "stage": "R16",
+        "match_id": 400021529,
+        "nuestro_equipo": "ESP",
+        "rival": "POR",
+        "resultado": "1-0",
+        "nuestro_score": 1,
+        "rival_score": 0,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Luis de la Fuente Castillo",
+        "entrenador_rival": "Roberto Martínez Montoliú",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Mikel MERINO",
+            "minute": "90'+1'",
+            "type": "regular",
+            "id_player": "430733"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "430753",
+            "name": "Unai SIMON",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "430144",
+            "name": "Pedro PORRO",
+            "shirt_number": 12,
+            "captain": false
+          },
+          {
+            "id_player": "335999",
+            "name": "Aymeric LAPORTE",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "474973",
+            "name": "Pau CUBARSI",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "430735",
+            "name": "Marc CUCURELLA",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "447860",
+            "name": "Alex BAENA",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "411375",
+            "name": "RODRI",
+            "shirt_number": 16,
+            "captain": true
+          },
+          {
+            "id_player": "423646",
+            "name": "PEDRI",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "430750",
+            "name": "Dani OLMO",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "484320",
+            "name": "Lamine YAMAL",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "430751",
+            "name": "Mikel OYARZABAL",
+            "shirt_number": 21,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "403001",
+            "name": "DIOGO COSTA",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "384752",
+            "name": "RUBEN DIAS",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "489704",
+            "name": "RENATO VEIGA",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "368649",
+            "name": "JOAO CANCELO",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "433195",
+            "name": "NUNO MENDES",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "395206",
+            "name": "BRUNO FERNANDES",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "484141",
+            "name": "JOAO NEVES",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "441149",
+            "name": "VITINHA",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "201200",
+            "name": "CRISTIANO RONALDO",
+            "shirt_number": 7,
+            "captain": true
+          },
+          {
+            "id_player": "418535",
+            "name": "JOAO FELIX",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "418548",
+            "name": "PEDRO NETO",
+            "shirt_number": 18,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  },
+  "BEL": {
+    "nombre": "Bélgica",
+    "partidos": [
+      {
+        "partido": "BEL vs EGY",
+        "stage": "Grupo",
+        "match_id": 400021478,
+        "nuestro_equipo": "BEL",
+        "rival": "EGY",
+        "resultado": "1-1",
+        "nuestro_score": 1,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Rudi Garcia",
+        "entrenador_rival": "Hossam Hassan Hussein",
+        "nuestros_goleadores": [
+          {
+            "player_name": "MOHAMED HANY",
+            "minute": "66'",
+            "type": "own_goal",
+            "id_player": "408950"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "EMAM ASHOUR",
+            "minute": "19'",
+            "type": "regular",
+            "id_player": "430482"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "358106",
+            "name": "Thibaut COURTOIS",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "448360",
+            "name": "Brandon MECHELE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "358122",
+            "name": "Thomas MEUNIER",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "411443",
+            "name": "Timothy CASTAGNE",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "514166",
+            "name": "Nathan NGOY",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "358120",
+            "name": "Kevin DE BRUYNE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "401444",
+            "name": "Youri TIELEMANS",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "448364",
+            "name": "Amadou ONANA",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "448355",
+            "name": "Leandro TROSSARD",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "448341",
+            "name": "Jeremy DOKU",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448362",
+            "name": "Charles DE KETELAERE",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "416906",
+            "name": "MOSTAFA SHOUBIR",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "369267",
+            "name": "YASSER IBRAHIM",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "408950",
+            "name": "MOHAMED HANY",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "430477",
+            "name": "AHMED FATOUH",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "430482",
+            "name": "EMAM ASHOUR",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "483161",
+            "name": "MOSTAFA ZICO",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "429095",
+            "name": "HAMDY FATHY",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "433469",
+            "name": "MOHANAD LASHIN",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "461788",
+            "name": "MARAWAN ATTIA",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "344654",
+            "name": "MOHAMED SALAH",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "430476",
+            "name": "OMAR MARMOUSH",
+            "shirt_number": 22,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "BEL vs IRN",
+        "stage": "Grupo",
+        "match_id": 400021477,
+        "nuestro_equipo": "BEL",
+        "rival": "IRN",
+        "resultado": "0-0",
+        "nuestro_score": 0,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "5-2-3",
+        "nuestro_entrenador": "Rudi Garcia",
+        "entrenador_rival": "Amir Ghalenoei",
+        "nuestros_goleadores": [],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "358106",
+            "name": "Thibaut COURTOIS",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "448360",
+            "name": "Brandon MECHELE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "448373",
+            "name": "Maxim DE CUYPER",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "358122",
+            "name": "Thomas MEUNIER",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "514166",
+            "name": "Nathan NGOY",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "358120",
+            "name": "Kevin DE BRUYNE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "401444",
+            "name": "Youri TIELEMANS",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "433092",
+            "name": "Alexis SAELEMAEKERS",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "495349",
+            "name": "Nicolas RASKIN",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "358112",
+            "name": "Romelu LUKAKU",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "448355",
+            "name": "Leandro TROSSARD",
+            "shirt_number": 10,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "380007",
+            "name": "Alireza BEIRANVAND",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "448505",
+            "name": "Saleh HARDANI",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "288961",
+            "name": "Ehsan HAJISAFI",
+            "shirt_number": 3,
+            "captain": true
+          },
+          {
+            "id_player": "346743",
+            "name": "Shoja KHALILZADEH",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "390534",
+            "name": "Hossein KANANI",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "489603",
+            "name": "Ali NEMATI",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "384797",
+            "name": "Ramin REZAEIAN",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "371736",
+            "name": "Saeid EZATOLAHI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "448497",
+            "name": "Mohammad MOHEBBI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "411644",
+            "name": "Saman GHODDOS",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "388475",
+            "name": "Mehdi TAREMI",
+            "shirt_number": 9,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "NZL vs BEL",
+        "stage": "Grupo",
+        "match_id": 400021481,
+        "nuestro_equipo": "BEL",
+        "rival": "NZL",
+        "resultado": "5-1",
+        "nuestro_score": 5,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Rudi Garcia",
+        "entrenador_rival": "Darren BAZELEY",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Leandro TROSSARD",
+            "minute": "28'",
+            "type": "regular",
+            "id_player": "448355"
+          },
+          {
+            "player_name": "Leandro TROSSARD",
+            "minute": "50'",
+            "type": "regular",
+            "id_player": "448355"
+          },
+          {
+            "player_name": "Kevin DE BRUYNE",
+            "minute": "66'",
+            "type": "regular",
+            "id_player": "358120"
+          },
+          {
+            "player_name": "Romelu LUKAKU",
+            "minute": "86'",
+            "type": "regular",
+            "id_player": "358112"
+          },
+          {
+            "player_name": "Alexis SAELEMAEKERS",
+            "minute": "90'+4'",
+            "type": "regular",
+            "id_player": "433092"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Elijah JUST",
+            "minute": "84'",
+            "type": "regular",
+            "id_player": "405454"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "358106",
+            "name": "Thibaut COURTOIS",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "448346",
+            "name": "Arthur THEATE",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "448360",
+            "name": "Brandon MECHELE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "448373",
+            "name": "Maxim DE CUYPER",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "411443",
+            "name": "Timothy CASTAGNE",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "358120",
+            "name": "Kevin DE BRUYNE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "401444",
+            "name": "Youri TIELEMANS",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "448343",
+            "name": "Hans VANAKEN",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "448355",
+            "name": "Leandro TROSSARD",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "448341",
+            "name": "Jeremy DOKU",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448362",
+            "name": "Charles DE KETELAERE",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "368535",
+            "name": "Max CROCOMBE",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "331463",
+            "name": "Tim PAYNE",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "482775",
+            "name": "Tyler BINDON",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "405469",
+            "name": "Liberato CACACE",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "463580",
+            "name": "Finn SURMAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "390181",
+            "name": "Joe BELL",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "423595",
+            "name": "Marko STAMENIC",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "390209",
+            "name": "Sarpreet SINGH",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "405454",
+            "name": "Elijah JUST",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "336641",
+            "name": "Ryan THOMAS",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "274078",
+            "name": "Chris WOOD",
+            "shirt_number": 9,
+            "captain": true
+          }
+        ]
+      },
+      {
+        "partido": "BEL vs SEN",
+        "stage": "R32",
+        "match_id": 400021525,
+        "nuestro_equipo": "BEL",
+        "rival": "SEN",
+        "resultado": "3-2",
+        "nuestro_score": 3,
+        "rival_score": 2,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-3-3",
+        "nuestro_entrenador": "Rudi Garcia",
+        "entrenador_rival": "Pape THIAW",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Romelu LUKAKU",
+            "minute": "86'",
+            "type": "regular",
+            "id_player": "358112"
+          },
+          {
+            "player_name": "Youri TIELEMANS",
+            "minute": "89'",
+            "type": "regular",
+            "id_player": "401444"
+          },
+          {
+            "player_name": "Youri TIELEMANS",
+            "minute": "120'+5'",
+            "type": "penalty_shootout",
+            "id_player": "401444"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Habib DIARRA",
+            "minute": "24'",
+            "type": "regular",
+            "id_player": "486130"
+          },
+          {
+            "player_name": "Ismaila SARR",
+            "minute": "51'",
+            "type": "regular",
+            "id_player": "401889"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "358106",
+            "name": "Thibaut COURTOIS",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "448346",
+            "name": "Arthur THEATE",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "448360",
+            "name": "Brandon MECHELE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "448373",
+            "name": "Maxim DE CUYPER",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "411443",
+            "name": "Timothy CASTAGNE",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "358120",
+            "name": "Kevin DE BRUYNE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "401444",
+            "name": "Youri TIELEMANS",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "448343",
+            "name": "Hans VANAKEN",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "448355",
+            "name": "Leandro TROSSARD",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "448341",
+            "name": "Jeremy DOKU",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448362",
+            "name": "Charles DE KETELAERE",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "448821",
+            "name": "Mory DIAW",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "430671",
+            "name": "Ismail JAKOBS",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "403642",
+            "name": "Krepin DIATTA",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "430690",
+            "name": "Moussa Niakhate",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "332314",
+            "name": "Idrissa Gana GUEYE",
+            "shirt_number": 5,
+            "captain": true
+          },
+          {
+            "id_player": "448825",
+            "name": "Pathe CISS",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "486130",
+            "name": "Habib DIARRA",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "431788",
+            "name": "Pape GUEYE",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "353790",
+            "name": "Sadio MANE",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "448815",
+            "name": "Iliman NDIAYE",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "401889",
+            "name": "Ismaila SARR",
+            "shirt_number": 18,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "USA vs BEL",
+        "stage": "R16",
+        "match_id": 400021534,
+        "nuestro_equipo": "BEL",
+        "rival": "USA",
+        "resultado": "4-1",
+        "nuestro_score": 4,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "3-5-2",
+        "nuestro_entrenador": "Rudi Garcia",
+        "entrenador_rival": "Mauricio POCHETTINO",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Charles DE KETELAERE",
+            "minute": "0'",
+            "type": "regular",
+            "id_player": "448362"
+          },
+          {
+            "player_name": "Charles DE KETELAERE",
+            "minute": "33'",
+            "type": "regular",
+            "id_player": "448362"
+          },
+          {
+            "player_name": "Hans VANAKEN",
+            "minute": "57'",
+            "type": "regular",
+            "id_player": "448343"
+          },
+          {
+            "player_name": "Romelu LUKAKU",
+            "minute": "90'+3'",
+            "type": "regular",
+            "id_player": "358112"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Malik TILLMAN",
+            "minute": "31'",
+            "type": "regular",
+            "id_player": "448214"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "358106",
+            "name": "Thibaut COURTOIS",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "448360",
+            "name": "Brandon MECHELE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "448373",
+            "name": "Maxim DE CUYPER",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "411443",
+            "name": "Timothy CASTAGNE",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "514166",
+            "name": "Nathan NGOY",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "401444",
+            "name": "Youri TIELEMANS",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "495349",
+            "name": "Nicolas RASKIN",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "448364",
+            "name": "Amadou ONANA",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "448355",
+            "name": "Leandro TROSSARD",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "448377",
+            "name": "Dodi LUKEBAKIO",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "448362",
+            "name": "Charles DE KETELAERE",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "499913",
+            "name": "Matt FREESE",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "406280",
+            "name": "Sergino DEST",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "419062",
+            "name": "Chris RICHARDS",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "441251",
+            "name": "Antonee ROBINSON",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "339510",
+            "name": "Tim REAM",
+            "shirt_number": 13,
+            "captain": true
+          },
+          {
+            "id_player": "464542",
+            "name": "Alex FREEMAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "390238",
+            "name": "Tyler ADAMS",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "390259",
+            "name": "Weston McKENNIE",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448214",
+            "name": "Malik TILLMAN",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "390267",
+            "name": "Christian PULISIC",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "466624",
+            "name": "Folarin BALOGUN",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  },
+  "NOR": {
+    "nombre": "Noruega",
+    "partidos": [
+      {
+        "partido": "IRQ vs NOR",
+        "stage": "Grupo",
+        "match_id": 400021488,
+        "nuestro_equipo": "NOR",
+        "rival": "IRQ",
+        "resultado": "4-1",
+        "nuestro_score": 4,
+        "rival_score": 1,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Ståle Solbakken",
+        "entrenador_rival": "Graham James Arnold",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Erling HAALAND",
+            "minute": "29'",
+            "type": "regular",
+            "id_player": "419652"
+          },
+          {
+            "player_name": "Erling HAALAND",
+            "minute": "43'",
+            "type": "regular",
+            "id_player": "419652"
+          },
+          {
+            "player_name": "Leo OSTIGARD",
+            "minute": "76'",
+            "type": "regular",
+            "id_player": "419672"
+          },
+          {
+            "player_name": "AYMEN HUSSEIN",
+            "minute": "90'+6'",
+            "type": "own_goal",
+            "id_player": "395186"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "AYMEN HUSSEIN",
+            "minute": "39'",
+            "type": "regular",
+            "id_player": "395186"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "373235",
+            "name": "Orjan NYLAND",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "483516",
+            "name": "Kristoffer AJER",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "483505",
+            "name": "David MOLLER WOLFE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "491244",
+            "name": "Torbjorn HEGGEM",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "404645",
+            "name": "Sander BERGE",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "400716",
+            "name": "Martin ODEGAARD",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "483497",
+            "name": "Fredrik AURSNES",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "398588",
+            "name": "Alexander SORLOTH",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "419652",
+            "name": "Erling HAALAND",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "483448",
+            "name": "Antonio NUSA",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "483496",
+            "name": "Julian RYERSON",
+            "shirt_number": 26,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "347085",
+            "name": "JALAL HASSAN",
+            "shirt_number": 12,
+            "captain": true
+          },
+          {
+            "id_player": "479553",
+            "name": "Hussein Ali",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "434025",
+            "name": "ZAID TAHSEEN",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "481183",
+            "name": "AKAM HASHIM",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "479072",
+            "name": "MERCHAS DOSKI",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "433585",
+            "name": "IBRAHIM BAYESH",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "433074",
+            "name": "AMIR ALAMMARI",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "484270",
+            "name": "ZAID ISMAEL",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "436628",
+            "name": "ALI ALHAMADI",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "464457",
+            "name": "ALI JASIM",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "395186",
+            "name": "AYMEN HUSSEIN",
+            "shirt_number": 18,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "NOR vs SEN",
+        "stage": "Grupo",
+        "match_id": 400021491,
+        "nuestro_equipo": "NOR",
+        "rival": "SEN",
+        "resultado": "3-2",
+        "nuestro_score": 3,
+        "rival_score": 2,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-3-3",
+        "nuestro_entrenador": "Ståle Solbakken",
+        "entrenador_rival": "Pape THIAW",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Marcus HOLMGREN PEDERSEN",
+            "minute": "43'",
+            "type": "regular",
+            "id_player": "494625"
+          },
+          {
+            "player_name": "Erling HAALAND",
+            "minute": "48'",
+            "type": "regular",
+            "id_player": "419652"
+          },
+          {
+            "player_name": "Erling HAALAND",
+            "minute": "58'",
+            "type": "regular",
+            "id_player": "419652"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Ismaila SARR",
+            "minute": "53'",
+            "type": "regular",
+            "id_player": "401889"
+          },
+          {
+            "player_name": "Ismaila SARR",
+            "minute": "90'+3'",
+            "type": "regular",
+            "id_player": "401889"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "373235",
+            "name": "Orjan NYLAND",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "483516",
+            "name": "Kristoffer AJER",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "483505",
+            "name": "David MOLLER WOLFE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "491244",
+            "name": "Torbjorn HEGGEM",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "404645",
+            "name": "Sander BERGE",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "400716",
+            "name": "Martin ODEGAARD",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "483497",
+            "name": "Fredrik AURSNES",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "398588",
+            "name": "Alexander SORLOTH",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "419652",
+            "name": "Erling HAALAND",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "483448",
+            "name": "Antonio NUSA",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "483496",
+            "name": "Julian RYERSON",
+            "shirt_number": 26,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "433806",
+            "name": "Edouard MENDY",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "339820",
+            "name": "Kalidou KOULIBALY",
+            "shirt_number": 3,
+            "captain": true
+          },
+          {
+            "id_player": "403642",
+            "name": "Krepin DIATTA",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "430690",
+            "name": "Moussa Niakhate",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "464865",
+            "name": "El Hadji Malick DIOUF",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "332314",
+            "name": "Idrissa Gana GUEYE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "464842",
+            "name": "Lamine CAMARA",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "431788",
+            "name": "Pape GUEYE",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "353790",
+            "name": "Sadio MANE",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "418795",
+            "name": "Nicolas JACKSON",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "401889",
+            "name": "Ismaila SARR",
+            "shirt_number": 18,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "NOR vs FRA",
+        "stage": "Grupo",
+        "match_id": 400021489,
+        "nuestro_equipo": "NOR",
+        "rival": "FRA",
+        "resultado": "1-4",
+        "nuestro_score": 1,
+        "rival_score": 4,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Ståle Solbakken",
+        "entrenador_rival": null,
+        "nuestros_goleadores": [
+          {
+            "player_name": "Thelo AASGAARD",
+            "minute": "21'",
+            "type": "regular",
+            "id_player": "494627"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Ousmane DEMBELE",
+            "minute": "7'",
+            "type": "regular",
+            "id_player": "398680"
+          },
+          {
+            "player_name": "Ousmane DEMBELE",
+            "minute": "20'",
+            "type": "regular",
+            "id_player": "398680"
+          },
+          {
+            "player_name": "Ousmane DEMBELE",
+            "minute": "32'",
+            "type": "regular",
+            "id_player": "398680"
+          },
+          {
+            "player_name": "Desire DOUE",
+            "minute": "90'+4'",
+            "type": "regular",
+            "id_player": "464114"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "483535",
+            "name": "Egil SELVIK",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "419672",
+            "name": "Leo OSTIGARD",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "483530",
+            "name": "Fredrik Andre BJORKAN",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "520112",
+            "name": "Henrik FALCHENER",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "483442",
+            "name": "Patrick BERG",
+            "shirt_number": 6,
+            "captain": true
+          },
+          {
+            "id_player": "483497",
+            "name": "Fredrik AURSNES",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "419681",
+            "name": "Kristian Thorstvedt",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "494627",
+            "name": "Thelo AASGAARD",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "494626",
+            "name": "Andreas SCHJELDERUP",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "477470",
+            "name": "Oscar BOBB",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "419662",
+            "name": "Jorgen STRAND LARSEN",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "448332",
+            "name": "Mike MAIGNAN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "389876",
+            "name": "Dayot UPAMECANO",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "430707",
+            "name": "Jules KOUNDE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "408042",
+            "name": "Theo HERNANDEZ",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "405881",
+            "name": "Maxence Lacroix",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "485677",
+            "name": "Manu KONE",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "405893",
+            "name": "Aurelien TCHOUAMENI",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "398680",
+            "name": "Ousmane DEMBELE",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "389867",
+            "name": "Kylian MBAPPE",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "485655",
+            "name": "Michael OLISE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "464114",
+            "name": "Desire DOUE",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "CIV vs NOR",
+        "stage": "R32",
+        "match_id": 400021514,
+        "nuestro_equipo": "NOR",
+        "rival": "CIV",
+        "resultado": "2-1",
+        "nuestro_score": 2,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-1-3",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": "Ståle Solbakken",
+        "entrenador_rival": "Emerse FAE",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Antonio NUSA",
+            "minute": "39'",
+            "type": "regular",
+            "id_player": "483448"
+          },
+          {
+            "player_name": "Erling HAALAND",
+            "minute": "86'",
+            "type": "regular",
+            "id_player": "419652"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Amad DIALLO",
+            "minute": "74'",
+            "type": "regular",
+            "id_player": "430822"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "373235",
+            "name": "Orjan NYLAND",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "483516",
+            "name": "Kristoffer AJER",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "483505",
+            "name": "David MOLLER WOLFE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "494625",
+            "name": "Marcus HOLMGREN PEDERSEN",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "491244",
+            "name": "Torbjorn HEGGEM",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "483442",
+            "name": "Patrick BERG",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "404645",
+            "name": "Sander BERGE",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "400716",
+            "name": "Martin ODEGAARD",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "398588",
+            "name": "Alexander SORLOTH",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "419652",
+            "name": "Erling HAALAND",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "483448",
+            "name": "Antonio NUSA",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "405873",
+            "name": "Yahia Fofana",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "407343",
+            "name": "Ghislain KONAN",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "477825",
+            "name": "Odilon KOSSOUNOU",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "486317",
+            "name": "Guela DOUE",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "486268",
+            "name": "Emmanuel AGBADOU",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "371609",
+            "name": "Franck KESSIE",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "430831",
+            "name": "Ibrahim SANGARE",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "514208",
+            "name": "Christ Inao OULAI",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "464103",
+            "name": "Ange-Yoan BONNY",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "510922",
+            "name": "Yan DIOMANDE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "402261",
+            "name": "Nicolas PEPE",
+            "shirt_number": 19,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "BRA vs NOR",
+        "stage": "R16",
+        "match_id": 400021532,
+        "nuestro_equipo": "NOR",
+        "rival": "BRA",
+        "resultado": "2-1",
+        "nuestro_score": 2,
+        "rival_score": 1,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": "Ståle Solbakken",
+        "entrenador_rival": "Carlo Ancelotti",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Erling HAALAND",
+            "minute": "79'",
+            "type": "regular",
+            "id_player": "419652"
+          },
+          {
+            "player_name": "Erling HAALAND",
+            "minute": "90'",
+            "type": "regular",
+            "id_player": "419652"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "NEYMAR JR",
+            "minute": "90'+10'",
+            "type": "penalty_shootout",
+            "id_player": "314197"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "373235",
+            "name": "Orjan NYLAND",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "483516",
+            "name": "Kristoffer AJER",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "483505",
+            "name": "David MOLLER WOLFE",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "491244",
+            "name": "Torbjorn HEGGEM",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "483442",
+            "name": "Patrick BERG",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "404645",
+            "name": "Sander BERGE",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "400716",
+            "name": "Martin ODEGAARD",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "398588",
+            "name": "Alexander SORLOTH",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "419652",
+            "name": "Erling HAALAND",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "483448",
+            "name": "Antonio NUSA",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "483496",
+            "name": "Julian RYERSON",
+            "shirt_number": 26,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "308370",
+            "name": "ALISSON",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "430601",
+            "name": "GABRIEL MAGALHAES",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "332946",
+            "name": "MARQUINHOS",
+            "shirt_number": 4,
+            "captain": true
+          },
+          {
+            "id_player": "335656",
+            "name": "DANILO",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "367981",
+            "name": "DOUGLAS SANTOS",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "308386",
+            "name": "CASEMIRO",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "430605",
+            "name": "BRUNO GUIMARAES",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "405742",
+            "name": "VINICIUS JUNIOR",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "430609",
+            "name": "MATHEUS CUNHA",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "430597",
+            "name": "GABRIEL MARTINELLI",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "475036",
+            "name": "RAYAN",
+            "shirt_number": 26,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  },
+  "ENG": {
+    "nombre": "Inglaterra",
+    "partidos": [
+      {
+        "partido": "ENG vs CRO",
+        "stage": "Grupo",
+        "match_id": 400021507,
+        "nuestro_equipo": "ENG",
+        "rival": "CRO",
+        "resultado": "4-2",
+        "nuestro_score": 4,
+        "rival_score": 2,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "3-4-3",
+        "nuestro_entrenador": "Thomas Tuchel",
+        "entrenador_rival": "Zlatko Dalić",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Harry KANE",
+            "minute": "12'",
+            "type": "penalty_shootout",
+            "id_player": "369419"
+          },
+          {
+            "player_name": "Harry KANE",
+            "minute": "42'",
+            "type": "regular",
+            "id_player": "369419"
+          },
+          {
+            "player_name": "Jude BELLINGHAM",
+            "minute": "47'",
+            "type": "regular",
+            "id_player": "448202"
+          },
+          {
+            "player_name": "Marcus RASHFORD",
+            "minute": "85'",
+            "type": "regular",
+            "id_player": "401470"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Martin BATURINA",
+            "minute": "36'",
+            "type": "regular",
+            "id_player": "482774"
+          },
+          {
+            "player_name": "Petar Musa",
+            "minute": "45'+5'",
+            "type": "regular",
+            "id_player": "389754"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "336022",
+            "name": "Jordan PICKFORD",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "403049",
+            "name": "Ezri KONSA",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "463780",
+            "name": "Nico OREILLY",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "369434",
+            "name": "John STONES",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "439641",
+            "name": "Reece JAMES",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "433097",
+            "name": "Declan RICE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "481610",
+            "name": "Elliot ANDERSON",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448202",
+            "name": "Jude BELLINGHAM",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "369419",
+            "name": "Harry KANE",
+            "shirt_number": 9,
+            "captain": true
+          },
+          {
+            "id_player": "448189",
+            "name": "Anthony GORDON",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "489732",
+            "name": "Noni MADUEKE",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "369029",
+            "name": "Dominik LIVAKOVIC",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "433667",
+            "name": "Josip STANISIC",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "448180",
+            "name": "Josko GVARDIOL",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "448171",
+            "name": "Josip SUTALO",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "499290",
+            "name": "Luka VUSKOVIC",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "241559",
+            "name": "Luka MODRIC",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "380005",
+            "name": "Mario PASALIC",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "482774",
+            "name": "Martin BATURINA",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "485066",
+            "name": "Petar SUCIC",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "359381",
+            "name": "Ivan PERISIC",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "389754",
+            "name": "Petar Musa",
+            "shirt_number": 26,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "ENG vs GHA",
+        "stage": "Grupo",
+        "match_id": 400021506,
+        "nuestro_equipo": "ENG",
+        "rival": "GHA",
+        "resultado": "0-0",
+        "nuestro_score": 0,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Thomas Tuchel",
+        "entrenador_rival": "Carlos QUEIROZ",
+        "nuestros_goleadores": [],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "336022",
+            "name": "Jordan PICKFORD",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "403049",
+            "name": "Ezri KONSA",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "405841",
+            "name": "Marc GUEHI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "439641",
+            "name": "Reece JAMES",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "506329",
+            "name": "Djed SPENCE",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "433097",
+            "name": "Declan RICE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "481610",
+            "name": "Elliot ANDERSON",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448202",
+            "name": "Jude BELLINGHAM",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "369419",
+            "name": "Harry KANE",
+            "shirt_number": 9,
+            "captain": true
+          },
+          {
+            "id_player": "448189",
+            "name": "Anthony GORDON",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "489732",
+            "name": "Noni MADUEKE",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "494349",
+            "name": "Benjamin ASARE",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "494351",
+            "name": "Jonas ADJETEY",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "441333",
+            "name": "Gideon MENSAH",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "486150",
+            "name": "Jerome OPOKU",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "520039",
+            "name": "Marvin SENAYA",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "506279",
+            "name": "Caleb YIRENKYI",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "369089",
+            "name": "Thomas PARTEY",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "507253",
+            "name": "Kwasi SIBO",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448531",
+            "name": "Antoine SEMENYO",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "353235",
+            "name": "Jordan AYEW",
+            "shirt_number": 9,
+            "captain": true
+          },
+          {
+            "id_player": "411376",
+            "name": "Inaki WILLIAMS",
+            "shirt_number": 19,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "PAN vs ENG",
+        "stage": "Grupo",
+        "match_id": 400021508,
+        "nuestro_equipo": "ENG",
+        "rival": "PAN",
+        "resultado": "2-0",
+        "nuestro_score": 2,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "3-4-3",
+        "nuestro_entrenador": "Thomas Tuchel",
+        "entrenador_rival": "Thomas Christiansen Tarín",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Jude BELLINGHAM",
+            "minute": "62'",
+            "type": "regular",
+            "id_player": "448202"
+          },
+          {
+            "player_name": "Harry KANE",
+            "minute": "67'",
+            "type": "regular",
+            "id_player": "369419"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "336022",
+            "name": "Jordan PICKFORD",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "403049",
+            "name": "Ezri KONSA",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "463780",
+            "name": "Nico OREILLY",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "405841",
+            "name": "Marc GUEHI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "463809",
+            "name": "Jarell QUANSAH",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "481610",
+            "name": "Elliot ANDERSON",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448202",
+            "name": "Jude BELLINGHAM",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "492716",
+            "name": "Morgan ROGERS",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "448196",
+            "name": "Bukayo SAKA",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "369419",
+            "name": "Harry KANE",
+            "shirt_number": 9,
+            "captain": true
+          },
+          {
+            "id_player": "401470",
+            "name": "Marcus RASHFORD",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "441241",
+            "name": "Orlando MOSQUERA",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "418715",
+            "name": "Jose CORDOBA",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "385030",
+            "name": "Fidel ESCOBAR",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "418729",
+            "name": "Carlos HARVEY",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "441240",
+            "name": "Andres ANDRADE",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "385031",
+            "name": "Amir MURILLO",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "441239",
+            "name": "Jorge GUTIERREZ",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "395581",
+            "name": "Cristian MARTINEZ",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "411176",
+            "name": "Jose Luis RODRIGUEZ",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "400416",
+            "name": "Edgar Yoel BARCENAS",
+            "shirt_number": 11,
+            "captain": true
+          },
+          {
+            "id_player": "418747",
+            "name": "Tomas RODRIGUEZ",
+            "shirt_number": 9,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "ENG vs COD",
+        "stage": "R32",
+        "match_id": 400021512,
+        "nuestro_equipo": "ENG",
+        "rival": "COD",
+        "resultado": "2-1",
+        "nuestro_score": 2,
+        "rival_score": 1,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-1-4-1",
+        "nuestro_entrenador": "Thomas Tuchel",
+        "entrenador_rival": "Sébastien Desabre",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Harry KANE",
+            "minute": "75'",
+            "type": "regular",
+            "id_player": "369419"
+          },
+          {
+            "player_name": "Harry KANE",
+            "minute": "86'",
+            "type": "regular",
+            "id_player": "369419"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Brian CIPENGA",
+            "minute": "7'",
+            "type": "regular",
+            "id_player": "510989"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "336022",
+            "name": "Jordan PICKFORD",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "403049",
+            "name": "Ezri KONSA",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "463780",
+            "name": "Nico OREILLY",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "405841",
+            "name": "Marc GUEHI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "506329",
+            "name": "Djed SPENCE",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "433097",
+            "name": "Declan RICE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "481610",
+            "name": "Elliot ANDERSON",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448202",
+            "name": "Jude BELLINGHAM",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "369419",
+            "name": "Harry KANE",
+            "shirt_number": 9,
+            "captain": true
+          },
+          {
+            "id_player": "401470",
+            "name": "Marcus RASHFORD",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "489732",
+            "name": "Noni MADUEKE",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "441313",
+            "name": "Lionel MPASI",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "426357",
+            "name": "Aaron WAN-BISSAKA",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "403063",
+            "name": "Axel Tuanzebe",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "356532",
+            "name": "Chancel MBEMBA",
+            "shirt_number": 22,
+            "captain": true
+          },
+          {
+            "id_player": "436572",
+            "name": "Arthur MASUAKU",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "494458",
+            "name": "Ngalayel MUKAU",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "424119",
+            "name": "Nathanael MBUKU",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "433076",
+            "name": "Samuel Moutoussamy",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "486147",
+            "name": "Noah SADIKI",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "510989",
+            "name": "Brian CIPENGA",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "441316",
+            "name": "Yoane WISSA",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "MEX vs ENG",
+        "stage": "R16",
+        "match_id": 400021531,
+        "nuestro_equipo": "ENG",
+        "rival": "MEX",
+        "resultado": "3-2",
+        "nuestro_score": 3,
+        "rival_score": 2,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": "Thomas Tuchel",
+        "entrenador_rival": "Javier Aguirre Onaindía",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Jude BELLINGHAM",
+            "minute": "36'",
+            "type": "regular",
+            "id_player": "448202"
+          },
+          {
+            "player_name": "Jude BELLINGHAM",
+            "minute": "38'",
+            "type": "regular",
+            "id_player": "448202"
+          },
+          {
+            "player_name": "Harry KANE",
+            "minute": "60'",
+            "type": "penalty_shootout",
+            "id_player": "369419"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Julian QUINONES",
+            "minute": "42'",
+            "type": "regular",
+            "id_player": "429157"
+          },
+          {
+            "player_name": "Raul JIMENEZ",
+            "minute": "69'",
+            "type": "penalty_shootout",
+            "id_player": "356731"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "336022",
+            "name": "Jordan PICKFORD",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "403049",
+            "name": "Ezri KONSA",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "463780",
+            "name": "Nico OREILLY",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "405841",
+            "name": "Marc GUEHI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "463809",
+            "name": "Jarell QUANSAH",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "433097",
+            "name": "Declan RICE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "481610",
+            "name": "Elliot ANDERSON",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "448202",
+            "name": "Jude BELLINGHAM",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "448196",
+            "name": "Bukayo SAKA",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "369419",
+            "name": "Harry KANE",
+            "shirt_number": 9,
+            "captain": true
+          },
+          {
+            "id_player": "448189",
+            "name": "Anthony GORDON",
+            "shirt_number": 18,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "485070",
+            "name": "Raul RANGEL",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "403596",
+            "name": "Jorge SANCHEZ",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "395516",
+            "name": "Cesar MONTES",
+            "shirt_number": 3,
+            "captain": true
+          },
+          {
+            "id_player": "425701",
+            "name": "Johan VASQUEZ",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "402772",
+            "name": "Jesus GALLARDO",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "419518",
+            "name": "Erik LIRA",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "430763",
+            "name": "Luis ROMO",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "500037",
+            "name": "Gilberto MORA",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "356731",
+            "name": "Raul JIMENEZ",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "429157",
+            "name": "Julian QUINONES",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "403585",
+            "name": "Roberto ALVARADO",
+            "shirt_number": 25,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  },
+  "ARG": {
+    "nombre": "Argentina",
+    "partidos": [
+      {
+        "partido": "ARG vs ALG",
+        "stage": "Grupo",
+        "match_id": 400021496,
+        "nuestro_equipo": "ARG",
+        "rival": "ALG",
+        "resultado": "3-0",
+        "nuestro_score": 3,
+        "rival_score": 0,
+        "nuestra_formacion": "4-3-3",
+        "formacion_rival": "4-3-3",
+        "nuestro_entrenador": "Lionel SCALONI",
+        "entrenador_rival": "Vladimir PETKOVIC",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "17'",
+            "type": "regular",
+            "id_player": "229397"
+          },
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "60'",
+            "type": "regular",
+            "id_player": "229397"
+          },
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "76'",
+            "type": "regular",
+            "id_player": "229397"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "308300",
+            "name": "Emiliano MARTINEZ",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "402926",
+            "name": "Gonzalo MONTIEL",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "402921",
+            "name": "Lisandro MARTINEZ",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "431196",
+            "name": "Cristian ROMERO",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "418963",
+            "name": "Facundo MEDINA",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "428882",
+            "name": "Rodrigo DE PAUL",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "430628",
+            "name": "Alexis MAC ALLISTER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "448252",
+            "name": "Enzo FERNANDEZ",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "229397",
+            "name": "Lionel MESSI",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "418975",
+            "name": "Thiago ALMADA",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "402920",
+            "name": "Lautaro MARTINEZ",
+            "shirt_number": 22,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "389879",
+            "name": "Luca ZIDANE",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "376285",
+            "name": "Aissa MANDI",
+            "shirt_number": 2,
+            "captain": true
+          },
+          {
+            "id_player": "431858",
+            "name": "Rayan AIT-NOURI",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "511009",
+            "name": "Rafik BELGHALI",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "395113",
+            "name": "Ramy BENSEBAINI",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "477795",
+            "name": "Fares CHAIBI",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "441350",
+            "name": "Hicham BOUDAOUI",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "379939",
+            "name": "Nabil Bentaleb",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "494291",
+            "name": "Ibrahim MAZA",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "405877",
+            "name": "Amine GOUIRI",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "482874",
+            "name": "Anis HADJ MOUSSA",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "ARG vs AUT",
+        "stage": "Grupo",
+        "match_id": 400021494,
+        "nuestro_equipo": "ARG",
+        "rival": "AUT",
+        "resultado": "2-0",
+        "nuestro_score": 2,
+        "rival_score": 0,
+        "nuestra_formacion": "4-1-3-2",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Lionel SCALONI",
+        "entrenador_rival": "Ralf RANGNICK",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "38'",
+            "type": "regular",
+            "id_player": "229397"
+          },
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "90'+5'",
+            "type": "regular",
+            "id_player": "229397"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "308300",
+            "name": "Emiliano MARTINEZ",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "402921",
+            "name": "Lisandro MARTINEZ",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "431196",
+            "name": "Cristian ROMERO",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "418963",
+            "name": "Facundo MEDINA",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "402925",
+            "name": "Nahuel MOLINA",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "428882",
+            "name": "Rodrigo DE PAUL",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "430628",
+            "name": "Alexis MAC ALLISTER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "448252",
+            "name": "Enzo FERNANDEZ",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "229397",
+            "name": "Lionel MESSI",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "418975",
+            "name": "Thiago ALMADA",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "402920",
+            "name": "Lautaro MARTINEZ",
+            "shirt_number": 22,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "371739",
+            "name": "Alexander SCHLAGER",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "405263",
+            "name": "Kevin Danso",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "441067",
+            "name": "Stefan POSCH",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "316002",
+            "name": "David ALABA",
+            "shirt_number": 8,
+            "captain": true
+          },
+          {
+            "id_player": "385531",
+            "name": "Xaver Schlager",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "441088",
+            "name": "Nicolas SEIWALD",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "358241",
+            "name": "Marcel SABITZER",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "463283",
+            "name": "Romano SCHMID",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "385259",
+            "name": "Konrad LAIMER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "520036",
+            "name": "Paul WANNER",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "401131",
+            "name": "Michael Gregoritsch",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "JOR vs ARG",
+        "stage": "Grupo",
+        "match_id": 400021495,
+        "nuestro_equipo": "ARG",
+        "rival": "JOR",
+        "resultado": "3-1",
+        "nuestro_score": 3,
+        "rival_score": 1,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "3-4-3",
+        "nuestro_entrenador": "Lionel SCALONI",
+        "entrenador_rival": "Jamal SELLAMI",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Giovani Lo Celso",
+            "minute": "19'",
+            "type": "regular",
+            "id_player": "395414"
+          },
+          {
+            "player_name": "Lautaro MARTINEZ",
+            "minute": "31'",
+            "type": "penalty_shootout",
+            "id_player": "402920"
+          },
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "80'",
+            "type": "regular",
+            "id_player": "229397"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "MOUSA ALTAMARI",
+            "minute": "55'",
+            "type": "regular",
+            "id_player": "431211"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "308300",
+            "name": "Emiliano MARTINEZ",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "402934",
+            "name": "Marcos SENESI",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "308322",
+            "name": "Nicolas TAGLIAFICO",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "310116",
+            "name": "Nicolas OTAMENDI",
+            "shirt_number": 19,
+            "captain": true
+          },
+          {
+            "id_player": "332847",
+            "name": "Leandro PAREDES",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "395414",
+            "name": "Giovani Lo Celso",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "389485",
+            "name": "Exequiel PALACIOS",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "416081",
+            "name": "Julian ALVAREZ",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "485595",
+            "name": "Giuliano SIMEONE",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "441422",
+            "name": "Nico PAZ",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "402920",
+            "name": "Lautaro MARTINEZ",
+            "shirt_number": 22,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "397894",
+            "name": "YAZEED ABULAILA",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "433527",
+            "name": "ABDALLAH NASIB",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "489550",
+            "name": "HUSAM ABUDAHAB",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "431225",
+            "name": "YAZAN ALARAB",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "389437",
+            "name": "EHSAN HADDAD",
+            "shirt_number": 23,
+            "captain": true
+          },
+          {
+            "id_player": "431230",
+            "name": "NOOR ALRAWABDEH",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "479389",
+            "name": "MOHANNAD ABUTAHA",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "433534",
+            "name": "NIZAR ALRASHDAN",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "431212",
+            "name": "ALI OLWAN",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "511875",
+            "name": "ODEH FAKHOURY",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "498514",
+            "name": "ALI AZAIZEH",
+            "shirt_number": 24,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "ARG vs CPV",
+        "stage": "R32",
+        "match_id": 400021521,
+        "nuestro_equipo": "ARG",
+        "rival": "CPV",
+        "resultado": "3-2",
+        "nuestro_score": 3,
+        "rival_score": 2,
+        "nuestra_formacion": "4-4-2",
+        "formacion_rival": "4-1-4-1",
+        "nuestro_entrenador": "Lionel SCALONI",
+        "entrenador_rival": "Pedro Leitão Brito",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "29'",
+            "type": "regular",
+            "id_player": "229397"
+          },
+          {
+            "player_name": "Lisandro MARTINEZ",
+            "minute": "92'",
+            "type": "regular",
+            "id_player": "402921"
+          },
+          {
+            "player_name": "DINEY BORGES",
+            "minute": "111'",
+            "type": "own_goal",
+            "id_player": "409241"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "DEROY DUARTE",
+            "minute": "59'",
+            "type": "regular",
+            "id_player": "477827"
+          },
+          {
+            "player_name": "SIDNY LOPES CABRAL",
+            "minute": "103'",
+            "type": "regular",
+            "id_player": "477832"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "308300",
+            "name": "Emiliano MARTINEZ",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "402921",
+            "name": "Lisandro MARTINEZ",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "431196",
+            "name": "Cristian ROMERO",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "418963",
+            "name": "Facundo MEDINA",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "402925",
+            "name": "Nahuel MOLINA",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "428882",
+            "name": "Rodrigo DE PAUL",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "430628",
+            "name": "Alexis MAC ALLISTER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "448252",
+            "name": "Enzo FERNANDEZ",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "229397",
+            "name": "Lionel MESSI",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "418975",
+            "name": "Thiago ALMADA",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "402920",
+            "name": "Lautaro MARTINEZ",
+            "shirt_number": 22,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "364752",
+            "name": "VOZINHA",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "409241",
+            "name": "DINEY BORGES",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "477770",
+            "name": "PICO LOPES",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "477832",
+            "name": "SIDNY LOPES CABRAL",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "477847",
+            "name": "STEVEN MOREIRA",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "477852",
+            "name": "KEVIN PINA",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "477856",
+            "name": "JOVANE CABRAL",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "477827",
+            "name": "DEROY DUARTE",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "480966",
+            "name": "LAROS DUARTE",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "401893",
+            "name": "NUNO DA COSTA",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "355642",
+            "name": "RYAN MENDES",
+            "shirt_number": 20,
+            "captain": true
+          }
+        ]
+      },
+      {
+        "partido": "ARG vs EGY",
+        "stage": "R16",
+        "match_id": 400021528,
+        "nuestro_equipo": "ARG",
+        "rival": "EGY",
+        "resultado": "3-2",
+        "nuestro_score": 3,
+        "rival_score": 2,
+        "nuestra_formacion": "4-1-3-2",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Lionel SCALONI",
+        "entrenador_rival": "Hossam Hassan Hussein",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Cristian ROMERO",
+            "minute": "79'",
+            "type": "regular",
+            "id_player": "431196"
+          },
+          {
+            "player_name": "Lionel MESSI",
+            "minute": "83'",
+            "type": "regular",
+            "id_player": "229397"
+          },
+          {
+            "player_name": "Enzo FERNANDEZ",
+            "minute": "90'+2'",
+            "type": "regular",
+            "id_player": "448252"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "YASSER IBRAHIM",
+            "minute": "15'",
+            "type": "regular",
+            "id_player": "369267"
+          },
+          {
+            "player_name": "MOSTAFA ZICO",
+            "minute": "67'",
+            "type": "regular",
+            "id_player": "483161"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "308300",
+            "name": "Emiliano MARTINEZ",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "308322",
+            "name": "Nicolas TAGLIAFICO",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "402921",
+            "name": "Lisandro MARTINEZ",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "431196",
+            "name": "Cristian ROMERO",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "402925",
+            "name": "Nahuel MOLINA",
+            "shirt_number": 26,
+            "captain": false
+          },
+          {
+            "id_player": "332847",
+            "name": "Leandro PAREDES",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "428882",
+            "name": "Rodrigo DE PAUL",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "430628",
+            "name": "Alexis MAC ALLISTER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "448252",
+            "name": "Enzo FERNANDEZ",
+            "shirt_number": 24,
+            "captain": false
+          },
+          {
+            "id_player": "416081",
+            "name": "Julian ALVAREZ",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "229397",
+            "name": "Lionel MESSI",
+            "shirt_number": 10,
+            "captain": true
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "416906",
+            "name": "MOSTAFA SHOUBIR",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "369267",
+            "name": "YASSER IBRAHIM",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "408950",
+            "name": "MOHAMED HANY",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "344661",
+            "name": "RAMY RABIA",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "407022",
+            "name": "KARIM HAFEZ",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "430482",
+            "name": "EMAM ASHOUR",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "483161",
+            "name": "MOSTAFA ZICO",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "433469",
+            "name": "MOHANAD LASHIN",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "461788",
+            "name": "MARAWAN ATTIA",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "344654",
+            "name": "MOHAMED SALAH",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "424106",
+            "name": "Haissem HASSAN",
+            "shirt_number": 12,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  },
+  "SUI": {
+    "nombre": "Suiza",
+    "partidos": [
+      {
+        "partido": "QAT vs SUI",
+        "stage": "Grupo",
+        "match_id": 400021447,
+        "nuestro_equipo": "SUI",
+        "rival": "QAT",
+        "resultado": "1-1",
+        "nuestro_score": 1,
+        "rival_score": 1,
+        "nuestra_formacion": "4-3-3",
+        "formacion_rival": "4-2-3-1",
+        "nuestro_entrenador": "Murat Yakin",
+        "entrenador_rival": "Julen Lopetegui Argote",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Breel EMBOLO",
+            "minute": "17'",
+            "type": "penalty_shootout",
+            "id_player": "393480"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Miro MUHEIM",
+            "minute": "90'+4'",
+            "type": "own_goal",
+            "id_player": "493221"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "448107",
+            "name": "Gregor KOBEL",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "398509",
+            "name": "Nico ELVEDI",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "405178",
+            "name": "Manuel AKANJI",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "313559",
+            "name": "Ricardo RODRIGUEZ",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "401448",
+            "name": "Denis ZAKARIA",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "402021",
+            "name": "Remo FREULER",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "311558",
+            "name": "Granit XHAKA",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "433147",
+            "name": "Michel AEBISCHER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "393480",
+            "name": "Breel EMBOLO",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "448114",
+            "name": "Dan NDOYE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448131",
+            "name": "Ruben VARGAS",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "419459",
+            "name": "MAHMOUD ABUNADA",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "416051",
+            "name": "PEDRO MIGUEL",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "512791",
+            "name": "ISSA LAYE",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "419473",
+            "name": "JASSEM GABER",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "510991",
+            "name": "AYOUB ALOUI",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "419441",
+            "name": "HOMAM AHMED",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "385067",
+            "name": "BOUALEM KHOUKHI",
+            "shirt_number": 16,
+            "captain": true
+          },
+          {
+            "id_player": "386348",
+            "name": "ASSIM MADIBO",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "429063",
+            "name": "EDMILSON JUNIOR",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "386347",
+            "name": "AKRAM AFIF",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "419463",
+            "name": "YUSUF ABDURISAG",
+            "shirt_number": 15,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "SUI vs BIH",
+        "stage": "Grupo",
+        "match_id": 400021446,
+        "nuestro_equipo": "SUI",
+        "rival": "BIH",
+        "resultado": "4-1",
+        "nuestro_score": 4,
+        "rival_score": 1,
+        "nuestra_formacion": "4-3-3",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Murat Yakin",
+        "entrenador_rival": "Sergej BARBAREZ",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Johan MANZAMBI",
+            "minute": "74'",
+            "type": "regular",
+            "id_player": "502727"
+          },
+          {
+            "player_name": "Ruben VARGAS",
+            "minute": "84'",
+            "type": "regular",
+            "id_player": "448131"
+          },
+          {
+            "player_name": "Johan MANZAMBI",
+            "minute": "90'",
+            "type": "regular",
+            "id_player": "502727"
+          },
+          {
+            "player_name": "Granit XHAKA",
+            "minute": "90'+7'",
+            "type": "penalty_shootout",
+            "id_player": "311558"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Ermin MAHMIC",
+            "minute": "90'+3'",
+            "type": "regular",
+            "id_player": "522846"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "448107",
+            "name": "Gregor KOBEL",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "356412",
+            "name": "Silvan WIDMER",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "398509",
+            "name": "Nico ELVEDI",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "405178",
+            "name": "Manuel AKANJI",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "313559",
+            "name": "Ricardo RODRIGUEZ",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "402021",
+            "name": "Remo FREULER",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "311558",
+            "name": "Granit XHAKA",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "433147",
+            "name": "Michel AEBISCHER",
+            "shirt_number": 20,
+            "captain": false
+          },
+          {
+            "id_player": "448103",
+            "name": "Fabian RIEDER",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "393480",
+            "name": "Breel EMBOLO",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "448114",
+            "name": "Dan NDOYE",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "482978",
+            "name": "Nikola VASILJ",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "484022",
+            "name": "Tarik MUHAREMOVIC",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "376230",
+            "name": "Sead KOLASINAC",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "482976",
+            "name": "Amar DEDIC",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "489520",
+            "name": "Nikola KATIC",
+            "shirt_number": 18,
+            "captain": false
+          },
+          {
+            "id_player": "483966",
+            "name": "Benjamin TAHIROVIC",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "372436",
+            "name": "Ivan SUNJIC",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "494640",
+            "name": "Amar MEMIC",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "436743",
+            "name": "Ermedin DEMIROVIC",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "300409",
+            "name": "Edin DZEKO",
+            "shirt_number": 11,
+            "captain": true
+          },
+          {
+            "id_player": "504990",
+            "name": "Kerim ALAJBEGOVIC",
+            "shirt_number": 19,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "SUI vs CAN",
+        "stage": "Grupo",
+        "match_id": 400021451,
+        "nuestro_equipo": "SUI",
+        "rival": "CAN",
+        "resultado": "2-1",
+        "nuestro_score": 2,
+        "rival_score": 1,
+        "nuestra_formacion": "4-4-2",
+        "formacion_rival": "4-4-2",
+        "nuestro_entrenador": "Murat Yakin",
+        "entrenador_rival": "Jesse Alan Marsch",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Ruben VARGAS",
+            "minute": "46'",
+            "type": "regular",
+            "id_player": "448131"
+          },
+          {
+            "player_name": "Johan MANZAMBI",
+            "minute": "57'",
+            "type": "regular",
+            "id_player": "502727"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Promise DAVID",
+            "minute": "76'",
+            "type": "regular",
+            "id_player": "493970"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "448107",
+            "name": "Gregor KOBEL",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "398509",
+            "name": "Nico ELVEDI",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "405178",
+            "name": "Manuel AKANJI",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "313559",
+            "name": "Ricardo RODRIGUEZ",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "510908",
+            "name": "Luca JAQUEZ",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "402021",
+            "name": "Remo FREULER",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "502727",
+            "name": "Johan MANZAMBI",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "311558",
+            "name": "Granit XHAKA",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "411226",
+            "name": "Djibril SOW",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "393480",
+            "name": "Breel EMBOLO",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "448131",
+            "name": "Ruben VARGAS",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "331732",
+            "name": "Maxime CREPEAU",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "441252",
+            "name": "Alistair JOHNSTON",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "480322",
+            "name": "Luc DE FOUGEROLLES",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "371958",
+            "name": "Derek CORNELIUS",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "431696",
+            "name": "Richie LARYEA",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "448390",
+            "name": "Mathieu CHOINIERE",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "423941",
+            "name": "Nathan SALIBA",
+            "shirt_number": 25,
+            "captain": false
+          },
+          {
+            "id_player": "390670",
+            "name": "Cyle LARIN",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "441257",
+            "name": "Jonathan DAVID",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "430138",
+            "name": "Tajon BUCHANAN",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "466687",
+            "name": "Ali AHMED",
+            "shirt_number": 20,
+            "captain": false
+          }
+        ]
+      },
+      {
+        "partido": "SUI vs ALG",
+        "stage": "R32",
+        "match_id": 400021527,
+        "nuestro_equipo": "SUI",
+        "rival": "ALG",
+        "resultado": "2-0",
+        "nuestro_score": 2,
+        "rival_score": 0,
+        "nuestra_formacion": "4-2-3-1",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": "Murat Yakin",
+        "entrenador_rival": "Vladimir PETKOVIC",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Breel EMBOLO",
+            "minute": "10'",
+            "type": "regular",
+            "id_player": "393480"
+          },
+          {
+            "player_name": "Dan NDOYE",
+            "minute": "46'",
+            "type": "regular",
+            "id_player": "448114"
+          }
+        ],
+        "goleadores_rival": [],
+        "nuestros_titulares": [
+          {
+            "id_player": "448107",
+            "name": "Gregor KOBEL",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "398509",
+            "name": "Nico ELVEDI",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "405178",
+            "name": "Manuel AKANJI",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "313559",
+            "name": "Ricardo RODRIGUEZ",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "401448",
+            "name": "Denis ZAKARIA",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "402021",
+            "name": "Remo FREULER",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "502727",
+            "name": "Johan MANZAMBI",
+            "shirt_number": 9,
+            "captain": false
+          },
+          {
+            "id_player": "311558",
+            "name": "Granit XHAKA",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "393480",
+            "name": "Breel EMBOLO",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "448114",
+            "name": "Dan NDOYE",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "448131",
+            "name": "Ruben VARGAS",
+            "shirt_number": 17,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "389879",
+            "name": "Luca ZIDANE",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "376285",
+            "name": "Aissa MANDI",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "431858",
+            "name": "Rayan AIT-NOURI",
+            "shirt_number": 15,
+            "captain": false
+          },
+          {
+            "id_player": "511009",
+            "name": "Rafik BELGHALI",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "395113",
+            "name": "Ramy BENSEBAINI",
+            "shirt_number": 21,
+            "captain": false
+          },
+          {
+            "id_player": "433679",
+            "name": "Ramiz ZERROUKI",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "430698",
+            "name": "Houssem Aouar",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "477795",
+            "name": "Fares CHAIBI",
+            "shirt_number": 10,
+            "captain": false
+          },
+          {
+            "id_player": "379939",
+            "name": "Nabil Bentaleb",
+            "shirt_number": 19,
+            "captain": false
+          },
+          {
+            "id_player": "494291",
+            "name": "Ibrahim MAZA",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "379942",
+            "name": "Riyad Mahrez",
+            "shirt_number": 7,
+            "captain": true
+          }
+        ]
+      },
+      {
+        "partido": "SUI vs COL",
+        "stage": "R16",
+        "match_id": 400021535,
+        "nuestro_equipo": "SUI",
+        "rival": "COL",
+        "resultado": "0-0",
+        "nuestro_score": 0,
+        "rival_score": 0,
+        "nuestra_formacion": "4-1-2-3",
+        "formacion_rival": "4-1-2-3",
+        "nuestro_entrenador": "Murat Yakin",
+        "entrenador_rival": "Néstor Gabriel Lorenzo",
+        "nuestros_goleadores": [
+          {
+            "player_name": "Granit XHAKA",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "311558"
+          },
+          {
+            "player_name": "Zeki AMDOUNI",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "448112"
+          },
+          {
+            "player_name": "Cedric ITTEN",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "448104"
+          },
+          {
+            "player_name": "Ruben VARGAS",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "448131"
+          }
+        ],
+        "goleadores_rival": [
+          {
+            "player_name": "Juan QUINTERO",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "356704"
+          },
+          {
+            "player_name": "Jaminton CAMPAZ",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "405755"
+          },
+          {
+            "player_name": "Luis DIAZ",
+            "minute": "",
+            "type": "penalty_shootout",
+            "id_player": "428886"
+          }
+        ],
+        "nuestros_titulares": [
+          {
+            "id_player": "448107",
+            "name": "Gregor KOBEL",
+            "shirt_number": 1,
+            "captain": false
+          },
+          {
+            "id_player": "398509",
+            "name": "Nico ELVEDI",
+            "shirt_number": 4,
+            "captain": false
+          },
+          {
+            "id_player": "405178",
+            "name": "Manuel AKANJI",
+            "shirt_number": 5,
+            "captain": false
+          },
+          {
+            "id_player": "313559",
+            "name": "Ricardo RODRIGUEZ",
+            "shirt_number": 13,
+            "captain": false
+          },
+          {
+            "id_player": "401448",
+            "name": "Denis ZAKARIA",
+            "shirt_number": 6,
+            "captain": false
+          },
+          {
+            "id_player": "402021",
+            "name": "Remo FREULER",
+            "shirt_number": 8,
+            "captain": false
+          },
+          {
+            "id_player": "311558",
+            "name": "Granit XHAKA",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "448120",
+            "name": "Ardon JASHARI",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "448103",
+            "name": "Fabian RIEDER",
+            "shirt_number": 22,
+            "captain": false
+          },
+          {
+            "id_player": "393480",
+            "name": "Breel EMBOLO",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "448114",
+            "name": "Dan NDOYE",
+            "shirt_number": 11,
+            "captain": false
+          }
+        ],
+        "titulares_rival": [
+          {
+            "id_player": "360642",
+            "name": "Camilo VARGAS",
+            "shirt_number": 12,
+            "captain": false
+          },
+          {
+            "id_player": "431200",
+            "name": "Daniel MUNOZ",
+            "shirt_number": 2,
+            "captain": false
+          },
+          {
+            "id_player": "441622",
+            "name": "Jhon LUCUMI",
+            "shirt_number": 3,
+            "captain": false
+          },
+          {
+            "id_player": "463902",
+            "name": "Gustavo PUERTA",
+            "shirt_number": 14,
+            "captain": false
+          },
+          {
+            "id_player": "394500",
+            "name": "Johan MOJICA",
+            "shirt_number": 17,
+            "captain": false
+          },
+          {
+            "id_player": "386013",
+            "name": "Davinson SANCHEZ",
+            "shirt_number": 23,
+            "captain": false
+          },
+          {
+            "id_player": "269058",
+            "name": "James RODRIGUEZ",
+            "shirt_number": 10,
+            "captain": true
+          },
+          {
+            "id_player": "470760",
+            "name": "Jhon ARIAS",
+            "shirt_number": 11,
+            "captain": false
+          },
+          {
+            "id_player": "395550",
+            "name": "Jefferson LERMA",
+            "shirt_number": 16,
+            "captain": false
+          },
+          {
+            "id_player": "428886",
+            "name": "Luis DIAZ",
+            "shirt_number": 7,
+            "captain": false
+          },
+          {
+            "id_player": "428905",
+            "name": "Luis SUAREZ",
+            "shirt_number": 25,
+            "captain": false
+          }
+        ]
+      }
+    ]
+  }
+}
