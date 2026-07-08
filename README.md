@@ -161,7 +161,7 @@ Tampoco modela lesiones de jugadores clave. Si Mbappé, Messi o Haaland se lesio
 
 No pretendo que esto sea un oráculo. Es un marco para pensar dónde el mercado tiene sesgo. El mercado compra nombre. El modelo compra datos. Y ningún modelo estadístico reemplaza lo que pasa en el campo.
 
-Código y datos completos en el repositorio.
+Código y datos completos en github.com/sanfernandezf/wc-modelo-mundial-2026
 
 #WorldCup2026 #MonteCarlo #DataScience #QuantFinance #AI #HeavyTails
 ```
