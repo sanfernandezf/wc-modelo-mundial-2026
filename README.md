@@ -103,7 +103,22 @@ Los parámetros óptimos (base=1.9, pendiente=0.25) duplican la pendiente respec
 
 ---
 
-## Fuentes de datos
+## Limitaciones del modelo
+
+### Colas pesadas
+La distribución Poisson subestima sistemáticamente la probabilidad de resultados extremos (5-0, 6-1, etc.). En fútbol real, estos marcadores ocurren con más frecuencia de lo que Poisson predice — los equipos que van perdiendo asumen más riesgos, los que van ganando relajan la presión, y el marcador se desequilibra. Esto significa que nuestro modelo puede estar **infravalorando las opciones de los equipos más débiles de llegar lejos** si encadenan un par de resultados extremos a su favor.
+
+### Eventos de cola pesada no modelados
+El factor humano introduce eventos que ningún modelo estadístico puede anticipar:
+
+- **Lesiones de jugadores clave.** Mbappé (7 goles de Francia), Messi (8 de Argentina) y Haaland (7 de Noruega) concentran un porcentaje muy alto de los goles de sus selecciones. Si cualquiera de ellos se lesiona durante un partido, la probabilidad de su equipo se desploma. Nuestro modelo aplica una penalización por dependencia de la estrella, pero no puede simular una lesión en el minuto 10.
+- **Tarjetas rojas.** Un equipo que juega 80 minutos con uno menos tiene una distribución de goles completamente diferente.
+- **Factores externos.** Viajes, clima, presión en penaltis, arbitraje.
+
+### Qué significa esto para la interpretación de los resultados
+El modelo no debe leerse como "España tiene un 28% de ganar el Mundial". Debe leerse como **"bajo el supuesto de que los equipos rinden según su ELO y su forma actual, y en ausencia de eventos extremos, la distribución más probable de resultados es esta"**.
+
+Esa es la diferencia entre un modelo predictivo y un oráculo. Prefiero que quien lea esto entienda la primera.
 
 | Fuente | Datos obtenidos | Acceso |
 |---|---|---|
@@ -121,25 +136,32 @@ Los parámetros óptimos (base=1.9, pendiente=0.25) duplican la pendiente respec
 El mercado dice Francia. Mi modelo dice España.
 
 Llevo días construyendo un modelo Monte Carlo para el Mundial 2026.
-No para acertar resultados — para encontrar dónde el mercado de predicciones se equivoca.
+No para acertar resultados — para encontrar dónde el mercado se equivoca.
 
 Metodología:
 • ELO ratings reales (eloratings.net)
 • Modelo Poisson calibrado contra 32 partidos eliminatorios de 2018 y 2022 (84.4% accuracy)
-• Ajustes por forma, goles encajados, clean sheets y head-to-head histórico
 • 100.000 simulaciones del bracket completo
 
 El resultado:
-España 28% — Mercado 18%  (+10 pts infravalorada)
-Argentina 26% — Mercado 18%  (+7 pts infravalorada)
-Francia 23% — Mercado 33%  (-10 pts sobrevalorada)
+España 28% — Mercado 18%  (+10)
+Argentina 26% — Mercado 18%  (+7)
+Francia 23% — Mercado 33%  (-10)
 Inglaterra 13% — Mercado 14%
 
 Dos señales fuertes:
-1. El mercado sobrevalora a Francia. Mbappé no lo hace todo.
+1. El mercado sobrevalora a Francia en 10 puntos.
 2. España lleva 5 partidos sin encajar un gol. Su ELO es el más alto del torneo.
 
-El mercado compra nombre. El modelo compra datos.
+Una confesión necesaria:
 
-#WorldCup2026 #MonteCarlo #DataScience #QuantFinance #AI
+La distribución Poisson que uso en el núcleo del modelo tiene colas más ligeras que la realidad del fútbol. Los 5-0, 6-1 y demás resultados extremos ocurren más a menudo de lo que Poisson predice. Eso significa que el modelo infravalora las opciones de los equipos más débiles de encadenar una sorpresa.
+
+Tampoco modela lesiones de jugadores clave. Si Mbappé, Messi o Haaland se lesionan durante un partido — y concentran entre el 50-57% de los goles de sus selecciones — la probabilidad de su equipo se desploma de formas que ningún modelo puede anticipar.
+
+No pretendo que esto sea un oráculo. Es un marco para pensar dónde el mercado tiene sesgo. El mercado compra nombre. El modelo compra datos. Y ningún modelo estadístico reemplaza lo que pasa en el campo.
+
+Código y datos completos en el repositorio.
+
+#WorldCup2026 #MonteCarlo #DataScience #QuantFinance #AI #HeavyTails
 ```
